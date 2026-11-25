@@ -1,0 +1,97 @@
+{
+  "completed_at_local": "2026-11-25T18:59:19.661160+08:00",
+  "transactions": 100,
+  "initial_live_evaluation": {
+    "mode": "hybrid",
+    "test_double": false,
+    "invoices": 100,
+    "key_field_accuracy": 0.9433333333333334,
+    "clean_journal_exact_accuracy": 0.9,
+    "error_recall": 1.0,
+    "error_precision": 0.8108108108108109,
+    "exact_issue_set_accuracy": 0.88,
+    "true_positives": 30,
+    "false_positives": 7,
+    "false_negatives": 0,
+    "by_split": {
+      "known_template": {
+        "invoices": 36,
+        "normal": 24,
+        "correct_normal_drafts": 24
+      },
+      "development": {
+        "invoices": 33,
+        "normal": 24,
+        "correct_normal_drafts": 21
+      },
+      "heldout_template": {
+        "invoices": 31,
+        "normal": 22,
+        "correct_normal_drafts": 18
+      }
+    },
+    "investigator_cases": 62,
+    "model_calls": 707,
+    "seconds": 1052.863,
+    "model_cost": null,
+    "note": "Synthetic text PDFs only. Null means no denominator. Offline or scripted scores are not live model scores."
+  },
+  "final_revalidated_evaluation": {
+    "mode": "recheck",
+    "test_double": false,
+    "invoices": 100,
+    "key_field_accuracy": 1.0,
+    "clean_journal_exact_accuracy": 1.0,
+    "error_recall": 1.0,
+    "error_precision": 1.0,
+    "exact_issue_set_accuracy": 0.97,
+    "true_positives": 30,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "by_split": {
+      "known_template": {
+        "invoices": 36,
+        "normal": 24,
+        "correct_normal_drafts": 24
+      },
+      "development": {
+        "invoices": 33,
+        "normal": 24,
+        "correct_normal_drafts": 24
+      },
+      "heldout_template": {
+        "invoices": 31,
+        "normal": 22,
+        "correct_normal_drafts": 22
+      }
+    },
+    "investigator_cases": 0,
+    "model_calls": 0,
+    "seconds": 0,
+    "model_cost": 0,
+    "note": "Frozen saved extractions revalidated with revised Python rules; not a fresh model run. Null means no denominator.",
+    "source_model_calls": 13,
+    "full_approved_balance_matches_oracle": true
+  },
+  "full_run_model_calls": 707,
+  "repair_model_calls": 35,
+  "diagnostic_model_calls": 1,
+  "total_new_model_calls": 743,
+  "request_roles": {
+    "extractor": 218,
+    "investigator": 525
+  },
+  "approved": 70,
+  "review_required": 30,
+  "revenue_cny": 55198.09,
+  "expense_cny": 106851.49,
+  "profit_cny": -51653.4,
+  "report_checks": {
+    "debits_equal_credits": true,
+    "trial_balance_zero": true,
+    "balance_sheet_balances": true
+  },
+  "billing_cost": null,
+  "methodology": "Original live run preserved. Role-validation fixes and bounded re-extractions were applied, then frozen records were revalidated. Final results are a development/debug outcome, not an untouched held-out benchmark.",
+  "approval": "Codex reviewed synthetic drafts under explicit user authorization. No external ledger or ERP posting. No professional signoff."
+}

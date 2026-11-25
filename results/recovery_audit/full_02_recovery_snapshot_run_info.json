@@ -1,0 +1,327 @@
+{
+  "mode": "extraction_recovery",
+  "selected_invoice_ids": [
+    "DOC-11845607",
+    "DOC-48510384",
+    "DOC-38068729",
+    "DOC-75396079",
+    "DOC-10978682",
+    "DOC-56120427",
+    "DOC-64833659",
+    "DOC-59367038",
+    "DOC-19394977",
+    "DOC-20878475",
+    "DOC-74530027",
+    "DOC-66553438",
+    "DOC-97731709",
+    "DOC-97990413",
+    "DOC-40770893",
+    "DOC-50930305",
+    "DOC-32091934",
+    "DOC-70212114",
+    "DOC-30300352",
+    "DOC-26864148",
+    "DOC-88971721",
+    "DOC-45948907",
+    "DOC-63369464",
+    "DOC-79709789",
+    "DOC-31008633",
+    "DOC-25981879",
+    "DOC-53997959",
+    "DOC-14682493",
+    "DOC-25961405",
+    "DOC-22062818",
+    "DOC-73310121",
+    "DOC-41040459",
+    "DOC-11257622",
+    "DOC-44748328",
+    "DOC-67141327",
+    "DOC-93676558",
+    "DOC-75766844",
+    "DOC-40901853",
+    "DOC-38641201",
+    "DOC-30071723",
+    "DOC-98034072",
+    "DOC-13217614",
+    "DOC-22873075",
+    "DOC-60596372",
+    "DOC-19090917",
+    "DOC-98940351",
+    "DOC-37206227",
+    "DOC-74826507",
+    "DOC-39491965",
+    "DOC-77832713",
+    "DOC-35147413",
+    "DOC-59374170",
+    "DOC-87258781",
+    "DOC-39088159",
+    "DOC-74082818",
+    "DOC-21508813",
+    "DOC-67320752",
+    "DOC-54922428",
+    "DOC-90464795",
+    "DOC-57688968",
+    "DOC-35765558",
+    "DOC-94041865",
+    "DOC-17679816",
+    "DOC-49264755",
+    "DOC-29415805",
+    "DOC-13651904",
+    "DOC-22750652",
+    "DOC-31902354",
+    "DOC-65778140",
+    "DOC-80009230",
+    "DOC-40409656",
+    "DOC-71170146",
+    "DOC-40478923",
+    "DOC-31575423",
+    "DOC-17096624",
+    "DOC-97898154",
+    "DOC-19759589",
+    "DOC-46504736",
+    "DOC-19933275",
+    "DOC-30251586",
+    "DOC-84522915",
+    "DOC-11905923",
+    "DOC-49292262",
+    "DOC-58856889",
+    "DOC-42212801",
+    "DOC-67455672",
+    "DOC-90586182",
+    "DOC-74784987",
+    "DOC-97390291",
+    "DOC-64003169",
+    "DOC-40350221",
+    "DOC-31694845",
+    "DOC-31411531",
+    "DOC-82672624",
+    "DOC-36100261",
+    "DOC-46861851",
+    "DOC-35076785",
+    "DOC-44448472",
+    "DOC-97906458",
+    "DOC-11627004"
+  ],
+  "input_fingerprint": "10650dd17ab3967ac7384fa3b6ab676b3538a67bee10dbccfed1ca99c4b35d79",
+  "completed_invoices": 100,
+  "model": "deepseek-flash",
+  "model_calls": 13,
+  "usage": [
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "e8f58a24-9d42-4d4f-b9a9-8aa6ab4a98e9",
+      "usage": {
+        "prompt_tokens": 750,
+        "completion_tokens": 482,
+        "total_tokens": 1232,
+        "prompt_tokens_details": {
+          "cached_tokens": 256
+        },
+        "prompt_cache_hit_tokens": 256,
+        "prompt_cache_miss_tokens": 494
+      },
+      "timestamp": "2026-11-25T10:55:59.926071+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "87be8c29-718d-41b8-9f7a-4525e8abdeff",
+      "usage": {
+        "prompt_tokens": 1006,
+        "completion_tokens": 254,
+        "total_tokens": 1260,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 622
+      },
+      "timestamp": "2026-11-25T10:56:01.208221+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "71172bf0-be66-4de7-9f3d-be5b2c6181f3",
+      "usage": {
+        "prompt_tokens": 748,
+        "completion_tokens": 230,
+        "total_tokens": 978,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 364
+      },
+      "timestamp": "2026-11-25T10:56:02.794318+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "898303f3-0b70-45bf-8971-da2c66c320ab",
+      "usage": {
+        "prompt_tokens": 773,
+        "completion_tokens": 277,
+        "total_tokens": 1050,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 389
+      },
+      "timestamp": "2026-11-25T10:56:04.249646+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "b4538c74-dfe3-4ece-aefe-99ff2b63e84a",
+      "usage": {
+        "prompt_tokens": 751,
+        "completion_tokens": 350,
+        "total_tokens": 1101,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 367
+      },
+      "timestamp": "2026-11-25T10:56:05.836867+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "dfba1b07-6ca1-403f-9586-12ed522fd575",
+      "usage": {
+        "prompt_tokens": 1007,
+        "completion_tokens": 244,
+        "total_tokens": 1251,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 623
+      },
+      "timestamp": "2026-11-25T10:56:07.375439+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "40980fc4-7c62-4e9b-99c1-9c0e836cbdee",
+      "usage": {
+        "prompt_tokens": 749,
+        "completion_tokens": 251,
+        "total_tokens": 1000,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 365
+      },
+      "timestamp": "2026-11-25T10:56:08.908080+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "c083d7c3-3dea-4964-bb0d-3e6a91cae00a",
+      "usage": {
+        "prompt_tokens": 751,
+        "completion_tokens": 327,
+        "total_tokens": 1078,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 367
+      },
+      "timestamp": "2026-11-25T10:56:10.552654+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "8371bbd2-0aa9-4792-96df-3bdb47f35dfa",
+      "usage": {
+        "prompt_tokens": 1007,
+        "completion_tokens": 254,
+        "total_tokens": 1261,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 623
+      },
+      "timestamp": "2026-11-25T10:56:11.876875+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "85fea89c-9fce-498a-8701-8f9bf5db06ca",
+      "usage": {
+        "prompt_tokens": 749,
+        "completion_tokens": 245,
+        "total_tokens": 994,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 365
+      },
+      "timestamp": "2026-11-25T10:56:13.068004+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "ec47c9f5-b41e-47da-8021-62ab814dce8c",
+      "usage": {
+        "prompt_tokens": 750,
+        "completion_tokens": 317,
+        "total_tokens": 1067,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 366
+      },
+      "timestamp": "2026-11-25T10:56:14.791148+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "9ba13a56-6b82-439c-bb25-5fcdb48a05ba",
+      "usage": {
+        "prompt_tokens": 739,
+        "completion_tokens": 325,
+        "total_tokens": 1064,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 227
+      },
+      "timestamp": "2026-11-25T10:56:16.670569+00:00"
+    },
+    {
+      "role": "extractor",
+      "model": "deepseek-flash",
+      "response_id": "f565e6e2-dc08-4e98-ac2b-09efc5909420",
+      "usage": {
+        "prompt_tokens": 1006,
+        "completion_tokens": 262,
+        "total_tokens": 1268,
+        "prompt_tokens_details": {
+          "cached_tokens": 384
+        },
+        "prompt_cache_hit_tokens": 384,
+        "prompt_cache_miss_tokens": 622
+      },
+      "timestamp": "2026-11-25T10:56:18.459933+00:00"
+    }
+  ],
+  "seconds": 20.345,
+  "model_cost": 0,
+  "test_double": false,
+  "live_api_verified": true,
+  "source_run": "E:\\Desktop\\financial_accounting_agent\\results\\full_01_final",
+  "source_model_calls": 0,
+  "note": "Reuses frozen saved extractions, not a fresh model evaluation. No API calls or automatic approvals.",
+  "recovery_note": "Re-extraction only; original live results preserved; no source facts edited."
+}

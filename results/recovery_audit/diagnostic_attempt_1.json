@@ -1,0 +1,56 @@
+{
+  "attempt": 1,
+  "passed": true,
+  "response": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00009",
+      "date": "2026-10-09",
+      "issuer": "Meadow Cafe 009 (TEST)",
+      "recipient": "Employee 009 (TEST)",
+      "reference": "REF-20261009",
+      "description": "client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 400397,
+      "tax_rate_bps": null,
+      "employee": "Employee 009 (TEST)",
+      "invoice_reference": "TEST-INV-800009",
+      "completed": null
+    },
+    "evidence": [
+      {
+        "field": "number",
+        "quote": "Receipt identifier PAY-00009."
+      },
+      {
+        "field": "date",
+        "quote": "on 2026-10-09"
+      },
+      {
+        "field": "issuer",
+        "quote": "Meadow Cafe 009 (TEST) confirms receipt"
+      },
+      {
+        "field": "recipient",
+        "quote": "from Employee 009 (TEST)"
+      },
+      {
+        "field": "reference",
+        "quote": "Payment reference REF-20261009."
+      },
+      {
+        "field": "total_cents",
+        "quote": "receipt of CNY 4,003.97"
+      },
+      {
+        "field": "employee",
+        "quote": "Employee 009 (TEST)"
+      },
+      {
+        "field": "invoice_reference",
+        "quote": "Related invoice: TEST-INV-800009."
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+﻿account,name,opening_cents,debit_cents,credit_cents,closing_cents
+1002,Bank,10000000,5850996,11397229,4453767
+222101,Demo input tax,0,712080,0,712080
+222102,Demo output tax,0,0,331187,-331187
+4001,Opening equity,-10000000,0,0,-10000000
+6001,Service revenue,0,0,5519809,-5519809
+660201,Office consumables expense,0,5477538,0,5477538
+660202,Employee reimbursement expense,0,5207611,0,5207611

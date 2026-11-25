@@ -1,0 +1,27 @@
+GITHUB REPOSITORY CONTENTS
+==========================
+KEEP
+  main.py, accounting/, tests/, requirements.txt
+  generate_data.py, data/input/, data/ground_truth/
+  README.txt, README_zh.txt, docs/project_report_zh.pdf
+  .env.example, .gitignore, validation_report.json
+  results/full_01/ (initial real experiment)
+  results/final_reviewed/ (approved reference results and readable statements)
+  results/recovery_audit/ (compact recovery provenance)
+
+EXCLUDE FROM GIT; KEEP LOCALLY IF NEEDED
+  .env                       Local API credential; never publish.
+  .venv/                     Machine-specific environment; recreate with requirements.txt.
+  .idea/, .vscode/            Personal editor state.
+  __pycache__/, *.pyc         Re-generated Python cache.
+  New local results folders  Not part of the frozen reference release.
+
+OPTIONAL / ARCHIVE OUTSIDE THE REPOSITORY
+  Old hybrid_01 and hybrid_01_rechecked demonstrations.
+  full_01_final intermediate recheck and full recovery snapshots.
+  extraction_diagnostics_01 (compact diagnostic evidence is already in recovery_audit).
+  full_01/runtime_source_snapshot (source hashes are retained instead).
+  data/layout_preview.pdf, data/sample_catalog.json, data/generation_check.json.
+
+This release can be used directly as a repository working tree.
+No .git history, API key, virtual environment or IDE state is included.

@@ -1,0 +1,10 @@
+﻿section,line_item,amount_cny
+Assets,Bank,44537.67
+Assets,Demo input tax,7120.80
+Assets,Total assets,51658.47
+Liabilities,Demo output tax,3311.87
+Liabilities,Total liabilities,3311.87
+Equity,Opening equity,100000.00
+Equity,Current-period profit / (loss),-51653.40
+Equity,Total equity,48346.60
+Total,Total liabilities and equity,51658.47

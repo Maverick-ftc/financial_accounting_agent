@@ -1,0 +1,102 @@
+﻿bank_id,date,counterparty,currency,signed_amount_cents,memo
+TX-00004,2026-10-27,Harbor Technology 004 Ltd (TEST),CNY,185954,REF-20261004 settlement part 1
+TX-00021,2026-10-27,Harbor Technology 019 Ltd (TEST),CNY,133488,REF-20261019 settlement part 1
+TX-00079,2026-10-27,Employee 078 (TEST),CNY,-362982,REF-20261078 settlement part 1
+TX-00066,2026-10-27,Orion Technology 061 Ltd (TEST),CNY,399282,REF-20261061 settlement part 1
+TX-00058,2026-10-27,Brightleaf Stationery 053 (TEST),CNY,-301668,REF-20261053 settlement part 1
+TX-00013,2026-10-27,Employee 012 (TEST),CNY,-70226,REF-20261012 settlement part 1
+TX-00083,2026-10-27,Employee 082 (TEST),CNY,-90247,REF-20261082 settlement part 1
+TX-00029,2026-10-27,Employee 027 (TEST),CNY,-123478,REF-20261027 settlement part 1
+TX-00059,2026-10-27,Employee 054 (TEST),CNY,-124088,REF-20261054 settlement part 1
+TX-00008,2026-10-27,Maple Technology 007 Ltd (TEST),CNY,99630,REF-20261007 settlement part 1
+TX-00057,2026-10-28,Maple Technology 052 Ltd (TEST),CNY,185369,REF-20261052 settlement part 2
+TX-00093,2026-10-27,Maple Technology 092 Ltd (TEST),CNY,242361,REF-20261092 settlement part 1
+TX-00099,2026-10-27,Brightleaf Stationery 098 (TEST),CNY,-432091,REF-20261098 settlement part 1
+TX-00045,2026-10-27,Brightleaf Stationery 041 (TEST),CNY,-347018,REF-20261041 settlement part 1
+TX-00030,2026-10-27,Cedar Technology 028 Ltd (TEST),CNY,76655,REF-20261028 settlement part 1
+TX-00085,2026-10-27,Employee 084 (TEST),CNY,-362587,REF-20261084 settlement part 1
+TX-00022,2026-10-27,Brightleaf Stationery 020 (TEST),CNY,-425422,REF-20261020 settlement part 1
+TX-00032,2026-10-27,Brightleaf Stationery 029 (TEST),CNY,-297554,REF-20261029 settlement part 1
+TX-00049,2026-10-27,Employee 045 (TEST),CNY,-149488,REF-20261045 settlement part 1
+TX-00002,2026-10-27,Brightleaf Stationery 002 (TEST),CNY,-463978,REF-20261002 settlement part 1
+TX-00041,2026-10-27,Brightleaf Stationery 038 (TEST),CNY,-135545,REF-20261038 settlement part 1
+TX-00017,2026-10-27,Orion Technology 016 Ltd (TEST),CNY,62852,REF-20261016 settlement part 1
+TX-00051,2026-10-27,Brightleaf Stationery 047 (TEST),CNY,-86861,REF-20261047 settlement part 1
+TX-00016,2026-10-27,Employee 015 (TEST),CNY,-140785,REF-20261015 settlement part 1
+TX-00019,2026-10-27,Brightleaf Stationery 017 (TEST),CNY,-336557,REF-20261017 settlement part 1
+TX-00086,2026-10-27,Employee 085 (TEST),CNY,-80346,REF-20261085 settlement part 1
+TX-00081,2026-10-27,Brightleaf Stationery 080 (TEST),CNY,-120026,REF-20261080 settlement part 1
+TX-00034,2026-10-27,Orion Technology 031 Ltd (TEST),CNY,68464,REF-20261031 settlement part 1
+TX-00027,2026-10-27,Linden Technology 025 Ltd (TEST),CNY,127309,REF-20261025 settlement part 1
+TX-00097,2026-10-27,Employee 096 (TEST),CNY,-293850,REF-20261096 settlement part 1
+TX-00089,2026-10-27,Cedar Technology 088 Ltd (TEST),CNY,67710,REF-20261088 settlement part 1
+TX-00101,2026-10-27,Linden Technology 100 Ltd (TEST),CNY,262879,REF-20261100 settlement part 1
+TX-00056,2026-10-27,Maple Technology 052 Ltd (TEST),CNY,123579,REF-20261052 settlement part 1
+TX-00039,2026-10-27,Employee 036 (TEST),CNY,-272228,REF-20261036 settlement part 1
+TX-00068,2026-10-27,Employee 063 (TEST),CNY,-316640,REF-20261063 settlement part 1
+TX-00100,2026-10-27,Employee 099 (TEST),CNY,-185347,REF-20261099 settlement part 1
+TX-00094,2026-10-27,Cedar Technology 093 Ltd (TEST),CNY,126348,REF-20261093 settlement part 1
+TX-00050,2026-10-27,Orion Technology 046 Ltd (TEST),CNY,439848,REF-20261046 settlement part 1
+TX-00055,2026-10-27,Employee 051 (TEST),CNY,-427826,REF-20261051 settlement part 1
+TX-00084,2026-10-27,Employee 083 (TEST),CNY,-88490,REF-20261083 settlement part 1
+TX-00067,2026-10-27,Brightleaf Stationery 062 (TEST),CNY,-284334,REF-20261062 settlement part 1
+TX-00003,2026-10-27,Employee 003 (TEST),CNY,-135301,REF-20261003 settlement part 1
+TX-00071,2026-10-27,Brightleaf Stationery 065 (TEST),CNY,-101540,REF-20261065 settlement part 1
+TX-00091,2026-10-27,Linden Technology 090 Ltd (TEST),CNY,95123,REF-20261090 settlement part 1
+TX-00061,2026-10-27,Brightleaf Stationery 056 (TEST),CNY,-49265,REF-20261056 settlement part 1
+TX-00028,2026-10-27,Brightleaf Stationery 026 (TEST),CNY,-230158,REF-20261026 settlement part 1
+TX-00038,2026-10-27,Brightleaf Stationery 035 (TEST),CNY,-218896,REF-20261035 settlement part 1
+TX-00087,2026-10-27,Orion Technology 086 Ltd (TEST),CNY,66194,REF-20261086 settlement part 1
+TX-00010,2026-10-27,Employee 009 (TEST),CNY,-400397,REF-20261009 settlement part 1
+TX-00062,2026-10-27,Employee 057 (TEST),CNY,-400901,REF-20261057 settlement part 1
+TX-00053,2026-10-27,Harbor Technology 049 Ltd (TEST),CNY,40898,REF-20261049 settlement part 1
+TX-00005,2026-10-28,Harbor Technology 004 Ltd (TEST),CNY,278932,REF-20261004 settlement part 2
+TX-00080,2026-10-27,Harbor Technology 079 Ltd (TEST),CNY,349114,REF-20261079 settlement part 1
+TX-00065,2026-10-27,Employee 060 (TEST),CNY,-145300,REF-20261060 settlement part 1
+TX-00082,2026-10-27,Employee 081 (TEST),CNY,-436346,REF-20261081 settlement part 1
+TX-00076,2026-10-27,Linden Technology 070 Ltd (TEST),CNY,313229,REF-20261070 settlement part 1
+TX-00037,2026-10-27,Harbor Technology 034 Ltd (TEST),CNY,367254,REF-20261034 settlement part 1
+TX-00020,2026-10-27,Employee 018 (TEST),CNY,-225244,REF-20261018 settlement part 1
+TX-00018,2026-10-28,Orion Technology 016 Ltd (TEST),CNY,94280,REF-20261016 settlement part 2
+TX-00026,2026-10-27,Employee 024 (TEST),CNY,-161311,REF-20261024 settlement part 1
+TX-00036,2026-10-27,Employee 033 (TEST),CNY,-84840,REF-20261033 settlement part 1
+TX-00052,2026-10-27,Employee 048 (TEST),CNY,-428074,REF-20261048 settlement part 1
+TX-00012,2026-10-27,Brightleaf Stationery 011 (TEST),CNY,-96502,REF-20261011 settlement part 1
+TX-00075,2026-10-27,Employee 069 (TEST),CNY,-177345,REF-20261069 settlement part 1
+TX-00090,2026-10-27,Harbor Technology 089 Ltd (TEST),CNY,415656,REF-20261089 settlement part 1
+TX-00046,2026-10-27,Employee 042 (TEST),CNY,-210082,REF-20261042 settlement part 1
+TX-00025,2026-10-27,Brightleaf Stationery 023 (TEST),CNY,-148119,REF-20261023 settlement part 1
+TX-00064,2026-10-27,Brightleaf Stationery 059 (TEST),CNY,-463666,REF-20261059 settlement part 1
+TX-00023,2026-10-27,Employee 021 (TEST),CNY,-219587,REF-20261021 settlement part 1
+TX-00040,2026-10-27,Maple Technology 037 Ltd (TEST),CNY,161561,REF-20261037 settlement part 1
+TX-00088,2026-10-27,Maple Technology 087 Ltd (TEST),CNY,332370,REF-20261087 settlement part 1
+TX-00072,2026-10-27,Employee 066 (TEST),CNY,-123817,REF-20261066 settlement part 1
+TX-00042,2026-10-27,Employee 039 (TEST),CNY,-385385,REF-20261039 settlement part 1
+TX-00033,2026-10-27,Employee 030 (TEST),CNY,-272195,REF-20261030 settlement part 1
+TX-00015,2026-10-27,Brightleaf Stationery 014 (TEST),CNY,-326873,REF-20261014 settlement part 1
+TX-00077,2026-10-27,Orion Technology 076 Ltd (TEST),CNY,435601,REF-20261076 settlement part 1
+TX-00070,2026-10-28,Harbor Technology 064 Ltd (TEST),CNY,150435,REF-20261064 settlement part 2
+TX-00048,2026-10-27,Brightleaf Stationery 044 (TEST),CNY,-484549,REF-20261044 settlement part 1
+TX-00014,2026-10-27,Cedar Technology 013 Ltd (TEST),CNY,176557,REF-20261013 settlement part 1
+TX-00074,2026-10-27,Brightleaf Stationery 068 (TEST),CNY,-377426,REF-20261068 settlement part 1
+TX-00009,2026-10-27,Brightleaf Stationery 008 (TEST),CNY,-133472,REF-20261008 settlement part 1
+TX-00044,2026-10-28,Linden Technology 040 Ltd (TEST),CNY,218659,REF-20261040 settlement part 2
+TX-00092,2026-10-27,Orion Technology 091 Ltd (TEST),CNY,308683,REF-20261091 settlement part 1
+TX-00007,2026-10-27,Employee 006 (TEST),CNY,-213073,REF-20261006 settlement part 1
+TX-00006,2026-10-27,Brightleaf Stationery 005 (TEST),CNY,-201706,REF-20261005 settlement part 1
+TX-00063,2026-10-27,Cedar Technology 058 Ltd (TEST),CNY,355175,REF-20261058 settlement part 1
+TX-00047,2026-10-27,Cedar Technology 043 Ltd (TEST),CNY,257287,REF-20261043 settlement part 1
+TX-00024,2026-10-27,Maple Technology 022 Ltd (TEST),CNY,106144,REF-20261022 settlement part 1
+TX-00054,2026-10-27,Brightleaf Stationery 050 (TEST),CNY,-418397,REF-20261050 settlement part 1
+TX-00069,2026-10-27,Harbor Technology 064 Ltd (TEST),CNY,100289,REF-20261064 settlement part 1
+TX-00060,2026-10-27,Linden Technology 055 Ltd (TEST),CNY,141438,REF-20261055 settlement part 1
+TX-00031,2026-10-28,Cedar Technology 028 Ltd (TEST),CNY,114983,REF-20261028 settlement part 2
+TX-00073,2026-10-27,Maple Technology 067 Ltd (TEST),CNY,415512,REF-20261067 settlement part 1
+TX-00095,2026-10-27,Harbor Technology 094 Ltd (TEST),CNY,93034,REF-20261094 settlement part 1
+TX-00098,2026-10-27,Maple Technology 097 Ltd (TEST),CNY,131532,REF-20261097 settlement part 1
+TX-00011,2026-10-27,Linden Technology 010 Ltd (TEST),CNY,270754,REF-20261010 settlement part 1
+TX-00035,2026-10-27,Brightleaf Stationery 032 (TEST),CNY,-260112,REF-20261032 settlement part 1
+TX-00043,2026-10-27,Linden Technology 040 Ltd (TEST),CNY,145772,REF-20261040 settlement part 1
+TX-00001,2026-10-27,Orion Technology 001 Ltd (TEST),CNY,239407,REF-20261001 settlement part 1
+TX-00096,2026-10-27,Linden Technology 095 Ltd (TEST),CNY,240409,REF-20261095 settlement part 1
+TX-00078,2026-10-27,Brightleaf Stationery 077 (TEST),CNY,-80123,REF-20261077 settlement part 1

@@ -1,0 +1,23 @@
+{
+  "entity": "Clearview Business Services Ltd (TEST)",
+  "period": "2026-10",
+  "currency": "CNY",
+  "accounts": {
+    "1002": "Bank",
+    "222101": "Demo input tax",
+    "222102": "Demo output tax",
+    "4001": "Opening equity",
+    "6001": "Service revenue",
+    "660201": "Office consumables expense",
+    "660202": "Employee reimbursement expense"
+  },
+  "opening_balances": {
+    "1002": 10000000,
+    "4001": -10000000
+  },
+  "assumptions": [
+    "Synthetic demo rates only; no tax eligibility determination.",
+    "Normal cases are completed, approved as business expenses and fully settled within the month.",
+    "No inventory, capital assets, accruals, prepayments or tax filing in this MVP."
+  ]
+}

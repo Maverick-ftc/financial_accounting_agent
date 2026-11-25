@@ -1,0 +1,87 @@
+{
+  "period": "2026-10",
+  "unit": "CNY cents",
+  "approved_count": 70,
+  "balances": {
+    "1002": 4453767,
+    "222101": 712080,
+    "222102": -331187,
+    "4001": -10000000,
+    "6001": -5519809,
+    "660201": 5477538,
+    "660202": 5207611
+  },
+  "trial_balance": [
+    {
+      "account": "1002",
+      "name": "Bank",
+      "opening_cents": 10000000,
+      "debit_cents": 5850996,
+      "credit_cents": 11397229,
+      "closing_cents": 4453767
+    },
+    {
+      "account": "222101",
+      "name": "Demo input tax",
+      "opening_cents": 0,
+      "debit_cents": 712080,
+      "credit_cents": 0,
+      "closing_cents": 712080
+    },
+    {
+      "account": "222102",
+      "name": "Demo output tax",
+      "opening_cents": 0,
+      "debit_cents": 0,
+      "credit_cents": 331187,
+      "closing_cents": -331187
+    },
+    {
+      "account": "4001",
+      "name": "Opening equity",
+      "opening_cents": -10000000,
+      "debit_cents": 0,
+      "credit_cents": 0,
+      "closing_cents": -10000000
+    },
+    {
+      "account": "6001",
+      "name": "Service revenue",
+      "opening_cents": 0,
+      "debit_cents": 0,
+      "credit_cents": 5519809,
+      "closing_cents": -5519809
+    },
+    {
+      "account": "660201",
+      "name": "Office consumables expense",
+      "opening_cents": 0,
+      "debit_cents": 5477538,
+      "credit_cents": 0,
+      "closing_cents": 5477538
+    },
+    {
+      "account": "660202",
+      "name": "Employee reimbursement expense",
+      "opening_cents": 0,
+      "debit_cents": 5207611,
+      "credit_cents": 0,
+      "closing_cents": 5207611
+    }
+  ],
+  "income_statement": {
+    "revenue_cents": 5519809,
+    "expense_cents": 10685149,
+    "profit_cents": -5165340
+  },
+  "balance_sheet": {
+    "assets_cents": 5165847,
+    "liabilities_cents": 331187,
+    "equity_cents": 4834660
+  },
+  "checks": {
+    "debits_equal_credits": true,
+    "trial_balance_zero": true,
+    "balance_sheet_balances": true
+  }
+}

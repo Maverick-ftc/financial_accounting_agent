@@ -1,0 +1,37 @@
+{
+  "mode": "recheck",
+  "test_double": false,
+  "invoices": 100,
+  "key_field_accuracy": 1.0,
+  "clean_journal_exact_accuracy": 1.0,
+  "error_recall": 1.0,
+  "error_precision": 1.0,
+  "exact_issue_set_accuracy": 0.97,
+  "true_positives": 30,
+  "false_positives": 0,
+  "false_negatives": 0,
+  "by_split": {
+    "known_template": {
+      "invoices": 36,
+      "normal": 24,
+      "correct_normal_drafts": 24
+    },
+    "development": {
+      "invoices": 33,
+      "normal": 24,
+      "correct_normal_drafts": 24
+    },
+    "heldout_template": {
+      "invoices": 31,
+      "normal": 22,
+      "correct_normal_drafts": 22
+    }
+  },
+  "investigator_cases": 0,
+  "model_calls": 0,
+  "seconds": 0,
+  "model_cost": 0,
+  "note": "Frozen saved extractions revalidated with revised Python rules; not a fresh model run. Null means no denominator.",
+  "source_model_calls": 13,
+  "full_approved_balance_matches_oracle": true
+}

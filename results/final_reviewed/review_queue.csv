@@ -1,0 +1,101 @@
+﻿invoice_id,status,route,issues,questions
+DOC-11845607,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-48510384,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-38068729,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-75396079,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-10978682,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-56120427,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-64833659,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-59367038,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-19394977,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-20878475,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-74530027,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-66553438,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-97731709,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-97990413,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-40770893,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-50930305,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-32091934,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-70212114,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-30300352,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-26864148,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-88971721,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-45948907,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-63369464,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-79709789,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-31008633,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-25981879,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-53997959,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-14682493,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-25961405,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-22062818,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-73310121,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-41040459,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-11257622,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-44748328,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-67141327,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-93676558,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-75766844,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-40901853,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-38641201,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-30071723,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-98034072,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-13217614,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-22873075,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-60596372,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-19090917,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-98940351,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-37206227,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-74826507,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-39491965,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-77832713,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-35147413,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-59374170,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-87258781,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-39088159,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-74082818,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-21508813,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-67320752,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-54922428,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-90464795,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-57688968,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-35765558,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-94041865,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-17679816,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-49264755,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-29415805,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-13651904,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-22750652,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-31902354,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-65778140,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-80009230,PENDING_APPROVAL,saved_extraction_recheck,,
+DOC-40409656,REVIEW_REQUIRED,saved_extraction_recheck,DUPLICATE_DOCUMENT,Please confirm whether this is a duplicate submission of an existing invoice.
+DOC-71170146,REVIEW_REQUIRED,saved_extraction_recheck,DUPLICATE_DOCUMENT,Please confirm whether this is a duplicate submission of an existing invoice.
+DOC-40478923,REVIEW_REQUIRED,saved_extraction_recheck,DUPLICATE_DOCUMENT,Please confirm whether this is a duplicate submission of an existing invoice.
+DOC-31575423,REVIEW_REQUIRED,saved_extraction_recheck,DUPLICATE_DOCUMENT,Please confirm whether this is a duplicate submission of an existing invoice.
+DOC-17096624,REVIEW_REQUIRED,saved_extraction_recheck,DUPLICATE_DOCUMENT,Please confirm whether this is a duplicate submission of an existing invoice.
+DOC-97898154,REVIEW_REQUIRED,saved_extraction_recheck,PAYMENT_MISMATCH,Please explain the payment difference and supply any additional settlement evidence.
+DOC-19759589,REVIEW_REQUIRED,saved_extraction_recheck,PAYMENT_MISMATCH,Please explain the payment difference and supply any additional settlement evidence.
+DOC-46504736,REVIEW_REQUIRED,saved_extraction_recheck,PAYMENT_MISMATCH,Please explain the payment difference and supply any additional settlement evidence.
+DOC-19933275,REVIEW_REQUIRED,saved_extraction_recheck,PAYMENT_MISMATCH,Please explain the payment difference and supply any additional settlement evidence.
+DOC-30251586,REVIEW_REQUIRED,saved_extraction_recheck,PAYMENT_MISMATCH,Please explain the payment difference and supply any additional settlement evidence.
+DOC-84522915,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_RECEIPT,Please supply the employee personal-payment receipt.
+DOC-11905923,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_RECEIPT,Please supply the employee personal-payment receipt.
+DOC-49292262,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_RECEIPT,Please supply the employee personal-payment receipt.
+DOC-58856889,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_RECEIPT,Please supply the employee personal-payment receipt.
+DOC-42212801,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_RECEIPT,Please supply the employee personal-payment receipt.
+DOC-67455672,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_ACCEPTANCE,Please supply client acceptance or delivery confirmation for the service.
+DOC-90586182,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_ACCEPTANCE,Please supply client acceptance or delivery confirmation for the service.
+DOC-74784987,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_ACCEPTANCE,Please supply client acceptance or delivery confirmation for the service.
+DOC-97390291,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_ACCEPTANCE,Please supply client acceptance or delivery confirmation for the service.
+DOC-64003169,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_ACCEPTANCE,Please supply client acceptance or delivery confirmation for the service.
+DOC-40350221,REVIEW_REQUIRED,saved_extraction_recheck,CONTRACT_INVOICE_MISMATCH,Please confirm the agreed contract price and supply any written amendment.
+DOC-31694845,REVIEW_REQUIRED,saved_extraction_recheck,CONTRACT_INVOICE_MISMATCH,Please confirm the agreed contract price and supply any written amendment.
+DOC-31411531,REVIEW_REQUIRED,saved_extraction_recheck,CONTRACT_INVOICE_MISMATCH,Please confirm the agreed contract price and supply any written amendment.
+DOC-82672624,REVIEW_REQUIRED,saved_extraction_recheck,CONTRACT_INVOICE_MISMATCH,Please confirm the agreed contract price and supply any written amendment.
+DOC-36100261,REVIEW_REQUIRED,saved_extraction_recheck,CONTRACT_INVOICE_MISMATCH,Please confirm the agreed contract price and supply any written amendment.
+DOC-46861851,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_INVOICE_NUMBER;REIMBURSEMENT_EVIDENCE_MISMATCH,Please supply the complete original invoice including its number.;Please resolve REIMBURSEMENT_EVIDENCE_MISMATCH.
+DOC-35076785,REVIEW_REQUIRED,saved_extraction_recheck,ACCEPTANCE_MISMATCH;MISSING_INVOICE_NUMBER,Please resolve ACCEPTANCE_MISMATCH.;Please supply the complete original invoice including its number.
+DOC-44448472,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_INVOICE_NUMBER,Please supply the complete original invoice including its number.
+DOC-97906458,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_INVOICE_NUMBER;REIMBURSEMENT_EVIDENCE_MISMATCH,Please supply the complete original invoice including its number.;Please resolve REIMBURSEMENT_EVIDENCE_MISMATCH.
+DOC-11627004,REVIEW_REQUIRED,saved_extraction_recheck,MISSING_INVOICE_NUMBER,Please supply the complete original invoice including its number.

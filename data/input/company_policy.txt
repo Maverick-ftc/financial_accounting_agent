@@ -1,0 +1,13 @@
+EDUCATIONAL BOOKKEEPING POLICY
+Currency: CNY. Monetary values are integer cents in structured records.
+Service revenue requires a contract AND separate client acceptance for this benchmark.
+Split service payments can be combined when the business reference and counterparty agree.
+Office consumables require a delivery-confirmed purchase order; these are current office expenses.
+Employee reimbursement requires invoice, merchant personal-payment receipt and expense claim.
+The company pays the employee, not the merchant, in reimbursement cases.
+Revenue: debit 1002 gross; credit 6001 net and 222102 demo tax.
+Purchases: debit 660201 net and 222101 demo tax; credit 1002 gross.
+Reimbursements: debit 660202 gross; credit 1002 gross. No input-tax deduction in this demo.
+Rates are fictional scenario parameters, not tax advice.
+Duplicates, unsupported differences, missing facts or conflicting totals must not be posted.
+All drafts require human approval. Model suggestions must cite original documents.

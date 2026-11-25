@@ -1,0 +1,21 @@
+# Local secrets and environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+# Caches and local editor state
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Keep curated reference results, ignore future local runs
+results/*
+!results/full_01/
+!results/full_01/**
+!results/final_reviewed/
+!results/final_reviewed/**
+!results/recovery_audit/
+!results/recovery_audit/**

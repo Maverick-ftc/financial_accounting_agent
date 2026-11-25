@@ -1,0 +1,5018 @@
+{
+  "DOC-11845607": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800001",
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": 225856,
+      "tax_cents": 13551,
+      "total_cents": 239407,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-94778921": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-12929532": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 001 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-48510384": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800002",
+      "date": "2026-10-02",
+      "issuer": "Brightleaf Stationery 002 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261002",
+      "description": "Office paper and binding consumables",
+      "net_cents": 410600,
+      "tax_cents": 53378,
+      "total_cents": 463978,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-56690868": {
+    "record": {
+      "type": "order",
+      "number": null,
+      "date": "2026-10-02",
+      "issuer": "Brightleaf Stationery 002 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261002",
+      "description": "Office paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 463978,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-38068729": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800003",
+      "date": "2026-10-03",
+      "issuer": "Riverside Dining 003 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261003",
+      "description": "Client meeting meal",
+      "net_cents": 135301,
+      "tax_cents": 0,
+      "total_cents": 135301,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-39181901": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00003",
+      "date": "2026-10-03",
+      "issuer": "Riverside Dining 003 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261003",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 135301,
+      "tax_rate_bps": null,
+      "employee": "Employee 003 (TEST)",
+      "invoice_reference": "TEST-INV-800003",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-44550881": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Riverside Dining 003 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261003",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 135301,
+      "tax_rate_bps": null,
+      "employee": "Employee 003 (TEST)",
+      "invoice_reference": "TEST-INV-800003",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-20878475": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800010",
+      "date": "2026-10-10",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 010 Ltd (TEST)",
+      "reference": "REF-20261010",
+      "description": "Business workflow review service",
+      "net_cents": 255428,
+      "tax_cents": 15326,
+      "total_cents": 270754,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-33607309": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-10",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 010 Ltd (TEST)",
+      "reference": "REF-20261010",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 270754,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-52611642": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Linden Technology 010 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261010",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 270754,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-74530027": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800011",
+      "date": "2026-10-11",
+      "issuer": "Brightleaf Stationery 011 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261011",
+      "description": "Office paper and binding consumables",
+      "net_cents": 85400,
+      "tax_cents": 11102,
+      "total_cents": 96502,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-56100893": {
+    "record": {
+      "type": "order",
+      "number": null,
+      "date": "2026-10-11",
+      "issuer": "Brightleaf Stationery 011 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261011",
+      "description": "Office paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 96502,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-66553438": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800012",
+      "date": "2026-10-12",
+      "issuer": "Riverside Dining 012 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261012",
+      "description": "Client meeting meal",
+      "net_cents": 70226,
+      "tax_cents": 0,
+      "total_cents": 70226,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-75761696": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00012",
+      "date": "2026-10-12",
+      "issuer": "Riverside Dining 012 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261012",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 70226,
+      "tax_rate_bps": null,
+      "employee": "Employee 012 (TEST)",
+      "invoice_reference": "TEST-INV-800012",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-59520728": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Riverside Dining 012 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261012",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 70226,
+      "tax_rate_bps": null,
+      "employee": "Employee 012 (TEST)",
+      "invoice_reference": "TEST-INV-800012",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-30300352": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800019",
+      "date": "2026-10-19",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 019 Ltd (TEST)",
+      "reference": "REF-20261019",
+      "description": "Business workflow review service",
+      "net_cents": 125932,
+      "tax_cents": 7556,
+      "total_cents": 133488,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-91725250": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-19",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 019 Ltd (TEST)",
+      "reference": "REF-20261019",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 133488,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-89462017": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Harbor Technology 019 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261019",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 133488,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-26864148": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800020",
+      "date": "2026-10-20",
+      "issuer": "Brightleaf Stationery 020 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261020",
+      "description": "Office paper and binding consumables",
+      "net_cents": 376480,
+      "tax_cents": 48942,
+      "total_cents": 425422,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-49740041": {
+    "record": {
+      "type": "order",
+      "number": null,
+      "date": "2026-10-20",
+      "issuer": "Brightleaf Stationery 020 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261020",
+      "description": "Office paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 425422,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-88971721": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800021",
+      "date": "2026-10-21",
+      "issuer": "Riverside Dining 021 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261021",
+      "description": "Client meeting meal",
+      "net_cents": 219587,
+      "tax_cents": 0,
+      "total_cents": 219587,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-64158872": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00021",
+      "date": "2026-10-21",
+      "issuer": "Riverside Dining 021 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261021",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 219587,
+      "tax_rate_bps": null,
+      "employee": "Employee 021 (TEST)",
+      "invoice_reference": "TEST-INV-800021",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-16431734": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Riverside Dining 021 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261021",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 219587,
+      "tax_rate_bps": null,
+      "employee": "Employee 021 (TEST)",
+      "invoice_reference": "TEST-INV-800021",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-14682493": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800028",
+      "date": "2026-10-03",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 028 Ltd (TEST)",
+      "reference": "REF-20261028",
+      "description": "Business workflow review service",
+      "net_cents": 180791,
+      "tax_cents": 10847,
+      "total_cents": 191638,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-23972289": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-03",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 028 Ltd (TEST)",
+      "reference": "REF-20261028",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 191638,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-74346746": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Cedar Technology 028 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261028",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 191638,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-25961405": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800029",
+      "date": "2026-10-04",
+      "issuer": "Brightleaf Stationery 029 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261029",
+      "description": "Office paper and binding consumables",
+      "net_cents": 263322,
+      "tax_cents": 34232,
+      "total_cents": 297554,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-55300307": {
+    "record": {
+      "type": "order",
+      "number": null,
+      "date": "2026-10-04",
+      "issuer": "Brightleaf Stationery 029 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261029",
+      "description": "Office paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 297554,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-22062818": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800030",
+      "date": "2026-10-05",
+      "issuer": "Riverside Dining 030 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261030",
+      "description": "Client meeting meal",
+      "net_cents": 272195,
+      "tax_cents": 0,
+      "total_cents": 272195,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-14357821": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00030",
+      "date": "2026-10-05",
+      "issuer": "Riverside Dining 030 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261030",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 272195,
+      "tax_rate_bps": null,
+      "employee": "Employee 030 (TEST)",
+      "invoice_reference": "TEST-INV-800030",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-13246454": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Riverside Dining 030 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261030",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 272195,
+      "tax_rate_bps": null,
+      "employee": "Employee 030 (TEST)",
+      "invoice_reference": "TEST-INV-800030",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-75766844": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800037",
+      "date": "2026-10-12",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 037 Ltd (TEST)",
+      "reference": "REF-20261037",
+      "description": "Business workflow review service",
+      "net_cents": 152416,
+      "tax_cents": 9145,
+      "total_cents": 161561,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-59753463": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-12",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 037 Ltd (TEST)",
+      "reference": "REF-20261037",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 161561,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-70603578": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Maple Technology 037 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261037",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 161561,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-40901853": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800038",
+      "date": "2026-10-13",
+      "issuer": "Brightleaf Stationery 038 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261038",
+      "description": "Office paper and binding consumables",
+      "net_cents": 119951,
+      "tax_cents": 15594,
+      "total_cents": 135545,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-14992603": {
+    "record": {
+      "type": "order",
+      "number": null,
+      "date": "2026-10-13",
+      "issuer": "Brightleaf Stationery 038 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261038",
+      "description": "Office paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 135545,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-38641201": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800039",
+      "date": "2026-10-14",
+      "issuer": "Riverside Dining 039 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261039",
+      "description": "Client meeting meal",
+      "net_cents": 385385,
+      "tax_cents": 0,
+      "total_cents": 385385,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-14200290": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00039",
+      "date": "2026-10-14",
+      "issuer": "Riverside Dining 039 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261039",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 385385,
+      "tax_rate_bps": null,
+      "employee": "Employee 039 (TEST)",
+      "invoice_reference": "TEST-INV-800039",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-46302391": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Riverside Dining 039 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261039",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 385385,
+      "tax_rate_bps": null,
+      "employee": "Employee 039 (TEST)",
+      "invoice_reference": "TEST-INV-800039",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-98940351": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800046",
+      "date": "2026-10-21",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 046 Ltd (TEST)",
+      "reference": "REF-20261046",
+      "description": "Business workflow review service",
+      "net_cents": 414951,
+      "tax_cents": 24897,
+      "total_cents": 439848,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-64378090": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-21",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 046 Ltd (TEST)",
+      "reference": "REF-20261046",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 439848,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-22790939": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 046 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261046",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 439848,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-37206227": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800047",
+      "date": "2026-10-22",
+      "issuer": "Brightleaf Stationery 047 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261047",
+      "description": "Office paper and binding consumables",
+      "net_cents": 76868,
+      "tax_cents": 9993,
+      "total_cents": 86861,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-95046412": {
+    "record": {
+      "type": "order",
+      "number": null,
+      "date": "2026-10-22",
+      "issuer": "Brightleaf Stationery 047 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261047",
+      "description": "Office paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 86861,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-74826507": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800048",
+      "date": "2026-10-23",
+      "issuer": "Riverside Dining 048 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261048",
+      "description": "Client meeting meal",
+      "net_cents": 428074,
+      "tax_cents": 0,
+      "total_cents": 428074,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-23756238": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00048",
+      "date": "2026-10-23",
+      "issuer": "Riverside Dining 048 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261048",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 428074,
+      "tax_rate_bps": null,
+      "employee": "Employee 048 (TEST)",
+      "invoice_reference": "TEST-INV-800048",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-56577742": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Riverside Dining 048 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261048",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 428074,
+      "tax_rate_bps": null,
+      "employee": "Employee 048 (TEST)",
+      "invoice_reference": "TEST-INV-800048",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-74082818": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800055",
+      "date": "2026-10-05",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 055 Ltd (TEST)",
+      "reference": "REF-20261055",
+      "description": "Business workflow review service",
+      "net_cents": 133432,
+      "tax_cents": 8006,
+      "total_cents": 141438,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-19441278": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-05",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 055 Ltd (TEST)",
+      "reference": "REF-20261055",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 141438,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-82432698": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Linden Technology 055 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261055",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 141438,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-21508813": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800056",
+      "date": "2026-10-06",
+      "issuer": "Brightleaf Stationery 056 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261056",
+      "description": "Office paper and binding consumables",
+      "net_cents": 43597,
+      "tax_cents": 5668,
+      "total_cents": 49265,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-89416614": {
+    "record": {
+      "type": "order",
+      "number": null,
+      "date": "2026-10-06",
+      "issuer": "Brightleaf Stationery 056 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261056",
+      "description": "Office paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 49265,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-67320752": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800057",
+      "date": "2026-10-07",
+      "issuer": "Riverside Dining 057 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261057",
+      "description": "Client meeting meal",
+      "net_cents": 400901,
+      "tax_cents": 0,
+      "total_cents": 400901,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-20429124": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00057",
+      "date": "2026-10-07",
+      "issuer": "Riverside Dining 057 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261057",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 400901,
+      "tax_rate_bps": null,
+      "employee": "Employee 057 (TEST)",
+      "invoice_reference": "TEST-INV-800057",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-29094668": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Riverside Dining 057 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261057",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 400901,
+      "tax_rate_bps": null,
+      "employee": "Employee 057 (TEST)",
+      "invoice_reference": "TEST-INV-800057",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-49264755": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800064",
+      "date": "2026-10-14",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 064 Ltd (TEST)",
+      "reference": "REF-20261064",
+      "description": "Business workflow review service",
+      "net_cents": 236532,
+      "tax_cents": 14192,
+      "total_cents": 250724,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-53899837": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-14",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 064 Ltd (TEST)",
+      "reference": "REF-20261064",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 250724,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-35829823": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Harbor Technology 064 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261064",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 250724,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-29415805": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800065",
+      "date": "2026-10-15",
+      "issuer": "Brightleaf Stationery 065 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261065",
+      "description": "Office paper and binding consumables",
+      "net_cents": 89858,
+      "tax_cents": 11682,
+      "total_cents": 101540,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-41117935": {
+    "record": {
+      "type": "order",
+      "number": null,
+      "date": "2026-10-15",
+      "issuer": "Brightleaf Stationery 065 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261065",
+      "description": "Office paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 101540,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-13651904": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800066",
+      "date": "2026-10-16",
+      "issuer": "Riverside Dining 066 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261066",
+      "description": "Client meeting meal",
+      "net_cents": 123817,
+      "tax_cents": 0,
+      "total_cents": 123817,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-71636421": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00066",
+      "date": "2026-10-16",
+      "issuer": "Riverside Dining 066 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261066",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 123817,
+      "tax_rate_bps": null,
+      "employee": "Employee 066 (TEST)",
+      "invoice_reference": "TEST-INV-800066",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-28949540": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Riverside Dining 066 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261066",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 123817,
+      "tax_rate_bps": null,
+      "employee": "Employee 066 (TEST)",
+      "invoice_reference": "TEST-INV-800066",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-40409656": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800001",
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": 225856,
+      "tax_cents": 13551,
+      "total_cents": 239407,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-36293028": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-68714925": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 001 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-71170146": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800001",
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": 225856,
+      "tax_cents": 13551,
+      "total_cents": 239407,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-60574712": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-75568579": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 001 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-40478923": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800001",
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": 225856,
+      "tax_cents": 13551,
+      "total_cents": 239407,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-43685946": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-45174464": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 001 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-31575423": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800001",
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": 225856,
+      "tax_cents": 13551,
+      "total_cents": 239407,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-57678311": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-37350750": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 001 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-17096624": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800001",
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": 225856,
+      "tax_cents": 13551,
+      "total_cents": 239407,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-25833963": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 001 Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-33551191": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 001 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261001",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 239407,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-11905923": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800082",
+      "date": "2026-10-07",
+      "issuer": "Meadow Cafe 082 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261082",
+      "description": "Client meeting meal",
+      "net_cents": 90247,
+      "tax_cents": 0,
+      "total_cents": 90247,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-40599197": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Meadow Cafe 082 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261082",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 90247,
+      "tax_rate_bps": null,
+      "employee": "Employee 082 (TEST)",
+      "invoice_reference": "TEST-INV-800082",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-49292262": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800083",
+      "date": "2026-10-08",
+      "issuer": "Meadow Cafe 083 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261083",
+      "description": "Client meeting meal",
+      "net_cents": 88490,
+      "tax_cents": 0,
+      "total_cents": 88490,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-92310468": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Meadow Cafe 083 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261083",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 88490,
+      "tax_rate_bps": null,
+      "employee": "Employee 083 (TEST)",
+      "invoice_reference": "TEST-INV-800083",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-58856889": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800084",
+      "date": "2026-10-09",
+      "issuer": "Riverside Dining 084 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261084",
+      "description": "Client meeting meal",
+      "net_cents": 362587,
+      "tax_cents": 0,
+      "total_cents": 362587,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-70902188": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Riverside Dining 084 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261084",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 362587,
+      "tax_rate_bps": null,
+      "employee": "Employee 084 (TEST)",
+      "invoice_reference": "TEST-INV-800084",
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-40350221": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800091",
+      "date": "2026-10-16",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 091 Ltd (TEST)",
+      "reference": "REF-20261091",
+      "description": "Business workflow review service",
+      "net_cents": 291210,
+      "tax_cents": 17473,
+      "total_cents": 308683,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-90586324": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-16",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 091 Ltd (TEST)",
+      "reference": "REF-20261091",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 328683,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-97264021": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 091 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261091",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 308683,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-31694845": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800092",
+      "date": "2026-10-17",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 092 Ltd (TEST)",
+      "reference": "REF-20261092",
+      "description": "Business workflow review service",
+      "net_cents": 228642,
+      "tax_cents": 13719,
+      "total_cents": 242361,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-32938272": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-17",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 092 Ltd (TEST)",
+      "reference": "REF-20261092",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 262361,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-90776099": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Maple Technology 092 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261092",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 242361,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-31411531": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800093",
+      "date": "2026-10-18",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 093 Ltd (TEST)",
+      "reference": "REF-20261093",
+      "description": "Business workflow review service",
+      "net_cents": 119196,
+      "tax_cents": 7152,
+      "total_cents": 126348,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-20318400": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-18",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 093 Ltd (TEST)",
+      "reference": "REF-20261093",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 146348,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-27478372": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Cedar Technology 093 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261093",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 126348,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-11627004": {
+    "record": {
+      "type": "invoice",
+      "number": null,
+      "date": "2026-10-25",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 100 Ltd (TEST)",
+      "reference": "REF-20261100",
+      "description": "Business workflow review service",
+      "net_cents": 247999,
+      "tax_cents": 14880,
+      "total_cents": 262879,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-34009511": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-25",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 100 Ltd (TEST)",
+      "reference": "REF-20261100",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 262879,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "python_template"
+  },
+  "DOC-93593039": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Linden Technology 100 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261100",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 262879,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "python_template"
+  },
+  "DOC-75396079": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800004",
+      "date": "2026-10-04",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 004 Ltd (TEST)",
+      "reference": "REF-20261004",
+      "description": "Business workflow review service",
+      "net_cents": 438572,
+      "tax_cents": 26314,
+      "total_cents": 464886,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-82218545": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-04",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 004 Ltd (TEST)",
+      "reference": "REF-20261004",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 464886,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-61155753": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Harbor Technology 004 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261004",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 464886,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-10978682": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800005",
+      "date": "2026-10-05",
+      "issuer": "Brightleaf Stationery 005 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261005",
+      "description": "Office paper and binding consumables",
+      "net_cents": 178501,
+      "tax_cents": 23205,
+      "total_cents": 201706,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-65382369": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261005",
+      "date": "2026-10-05",
+      "issuer": "Brightleaf Stationery 005 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261005",
+      "description": "Office Supplies Order and Delivery Note",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 201706,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-56120427": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800006",
+      "date": "2026-10-06",
+      "issuer": "Oak Kitchen 006 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261006",
+      "description": "Client meeting meal",
+      "net_cents": 213073,
+      "tax_cents": 0,
+      "total_cents": 213073,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-76678915": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00006",
+      "date": "2026-10-06",
+      "issuer": "Employee 006 (TEST)",
+      "recipient": "Oak Kitchen 006 (TEST)",
+      "reference": "REF-20261006",
+      "description": "Client meeting meal",
+      "net_cents": 213073,
+      "tax_cents": null,
+      "total_cents": 213073,
+      "tax_rate_bps": null,
+      "employee": "Employee 006 (TEST)",
+      "invoice_reference": "TEST-INV-800006",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-61909067": {
+    "record": {
+      "type": "claim",
+      "number": "REF-20261006",
+      "date": "2026-10-27",
+      "issuer": "Employee 006 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261006",
+      "description": "Employee expense application for reimbursement of CNY 2,130.73 for a client project meeting meal.",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 213073,
+      "tax_rate_bps": null,
+      "employee": "Employee 006 (TEST)",
+      "invoice_reference": "TEST-INV-800006",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-64833659": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800007",
+      "date": "2026-10-07",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 007 Ltd (TEST)",
+      "reference": "REF-20261007",
+      "description": "Business workflow review service",
+      "net_cents": 93991,
+      "tax_cents": 5639,
+      "total_cents": 99630,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": "TEST-INV-800007",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-59891640": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261007",
+      "date": "2026-10-07",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 007 Ltd (TEST)",
+      "reference": "REF-20261007",
+      "description": "Project Engagement Letter for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 99630,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-61415850": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Maple Technology 007 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261007",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 99630,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-59367038": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800008",
+      "date": "2026-10-08",
+      "issuer": "Brightleaf Stationery 008 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261008",
+      "description": "Office paper and binding consumables",
+      "net_cents": 118117,
+      "tax_cents": 15355,
+      "total_cents": 133472,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-61419871": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261008",
+      "date": "2026-10-08",
+      "issuer": "Brightleaf Stationery 008 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261008",
+      "description": "Office Supplies Order and Delivery Note for paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 133472,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-19394977": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800009",
+      "date": "2026-10-09",
+      "issuer": "Meadow Cafe 009 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261009",
+      "description": "Client meeting meal",
+      "net_cents": 400397,
+      "tax_cents": 0,
+      "total_cents": 400397,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-88498455": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00009",
+      "date": "2026-10-09",
+      "issuer": "Meadow Cafe 009 (TEST)",
+      "recipient": "Employee 009 (TEST)",
+      "reference": "REF-20261009",
+      "description": "client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 400397,
+      "tax_rate_bps": null,
+      "employee": "Employee 009 (TEST)",
+      "invoice_reference": "TEST-INV-800009",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-83742419": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 009 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261009",
+      "description": "Employee Expense Application for reimbursement of CNY 4,003.97 for a client project meeting meal.",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 400397,
+      "tax_rate_bps": null,
+      "employee": "Employee 009 (TEST)",
+      "invoice_reference": "TEST-INV-800009",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-97731709": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800013",
+      "date": "2026-10-13",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 013 Ltd (TEST)",
+      "reference": "REF-20261013",
+      "description": "Business workflow review service",
+      "net_cents": 166563,
+      "tax_cents": 9994,
+      "total_cents": 176557,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-75347520": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261013",
+      "date": "2026-10-13",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 013 Ltd (TEST)",
+      "reference": "REF-20261013",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 176557,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-24006847": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Cedar Technology 013 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261013",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 176557,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-97990413": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800014",
+      "date": "2026-10-14",
+      "issuer": "Brightleaf Stationery 014 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261014",
+      "description": "Office paper and binding consumables",
+      "net_cents": 289268,
+      "tax_cents": 37605,
+      "total_cents": 326873,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-53453358": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261014",
+      "date": "2026-10-14",
+      "issuer": "Brightleaf Stationery 014 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261014",
+      "description": "Office Supplies Order and Delivery Note",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 326873,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-40770893": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800015",
+      "date": "2026-10-15",
+      "issuer": "Oak Kitchen 015 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261015",
+      "description": "Client meeting meal",
+      "net_cents": 140785,
+      "tax_cents": 0,
+      "total_cents": 140785,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-91447358": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00015",
+      "date": "2026-10-15",
+      "issuer": "Oak Kitchen 015 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261015",
+      "description": "Payment slip for client meeting meal paid personally by Employee 015 (TEST)",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 140785,
+      "tax_rate_bps": null,
+      "employee": "Employee 015 (TEST)",
+      "invoice_reference": "TEST-INV-800015",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-29111463": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 015 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261015",
+      "description": "Employee expense application for reimbursement of CNY 1,407.85 for a client project meeting meal.",
+      "net_cents": 140785,
+      "tax_cents": null,
+      "total_cents": 140785,
+      "tax_rate_bps": null,
+      "employee": "Employee 015 (TEST)",
+      "invoice_reference": "TEST-INV-800015",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-50930305": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800016",
+      "date": "2026-10-16",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 016 Ltd (TEST)",
+      "reference": "REF-20261016",
+      "description": "Business workflow review service",
+      "net_cents": 148238,
+      "tax_cents": 8894,
+      "total_cents": 157132,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-37107474": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261016",
+      "date": "2026-10-16",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 016 Ltd (TEST)",
+      "reference": "REF-20261016",
+      "description": "Project Engagement Letter for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 157132,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-78002172": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 016 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261016",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 157132,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-32091934": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800017",
+      "date": "2026-10-17",
+      "issuer": "Brightleaf Stationery 017 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261017",
+      "description": "Office paper and binding consumables",
+      "net_cents": 297838,
+      "tax_cents": 38719,
+      "total_cents": 336557,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-64362691": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261017",
+      "date": "2026-10-17",
+      "issuer": "Brightleaf Stationery 017 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261017",
+      "description": "Office Supplies Order and Delivery Note",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 336557,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-70212114": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800018",
+      "date": "2026-10-18",
+      "issuer": "Meadow Cafe 018 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261018",
+      "description": "Client meeting meal",
+      "net_cents": 225244,
+      "tax_cents": 0,
+      "total_cents": 225244,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-86551544": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00018",
+      "date": "2026-10-18",
+      "issuer": "Meadow Cafe 018 (TEST)",
+      "recipient": "Employee 018 (TEST)",
+      "reference": "REF-20261018",
+      "description": "Merchant payment confirmation for a client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 225244,
+      "tax_rate_bps": null,
+      "employee": "Employee 018 (TEST)",
+      "invoice_reference": "TEST-INV-800018",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-67541837": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 018 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261018",
+      "description": "Employee expense application for reimbursement of CNY 2,252.44 for a client project meeting meal.",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 225244,
+      "tax_rate_bps": null,
+      "employee": "Employee 018 (TEST)",
+      "invoice_reference": "TEST-INV-800018",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-45948907": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800022",
+      "date": "2026-10-22",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 022 Ltd (TEST)",
+      "reference": "REF-20261022",
+      "description": "Business workflow review service",
+      "net_cents": 100136,
+      "tax_cents": 6008,
+      "total_cents": 106144,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-11466467": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261022",
+      "date": "2026-10-22",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 022 Ltd (TEST)",
+      "reference": "REF-20261022",
+      "description": "Statement of Work for Business workflow review service, scheduled 1-25 October 2026",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 106144,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-81924963": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Maple Technology 022 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261022",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 106144,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-63369464": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800023",
+      "date": "2026-10-23",
+      "issuer": "Brightleaf Stationery 023 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261023",
+      "description": "Office paper and binding consumables",
+      "net_cents": 131079,
+      "tax_cents": 17040,
+      "total_cents": 148119,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-93149913": {
+    "record": {
+      "type": "order",
+      "number": null,
+      "date": "2026-10-23",
+      "issuer": "Brightleaf Stationery 023 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261023",
+      "description": "Office supplies order and delivery note for paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 148119,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-79709789": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800024",
+      "date": "2026-10-24",
+      "issuer": "Oak Kitchen 024 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261024",
+      "description": "Client meeting meal",
+      "net_cents": 161311,
+      "tax_cents": 0,
+      "total_cents": 161311,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-61534328": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00024",
+      "date": "2026-10-24",
+      "issuer": "Oak Kitchen 024 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261024",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 161311,
+      "tax_rate_bps": null,
+      "employee": "Employee 024 (TEST)",
+      "invoice_reference": "TEST-INV-800024",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-78226006": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 024 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261024",
+      "description": "Employee Expense Application for reimbursement of CNY 1,613.11 for a client project meeting meal.",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 161311,
+      "tax_rate_bps": null,
+      "employee": "Employee 024 (TEST)",
+      "invoice_reference": "TEST-INV-800024",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-31008633": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800025",
+      "date": "2026-10-25",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 025 Ltd (TEST)",
+      "reference": "REF-20261025",
+      "description": "Business workflow review service",
+      "net_cents": 120103,
+      "tax_cents": 7206,
+      "total_cents": 127309,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-49408133": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261025",
+      "date": "2026-10-25",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 025 Ltd (TEST)",
+      "reference": "REF-20261025",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 127309,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-88732445": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Linden Technology 025 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261025",
+      "description": null,
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 127309,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-25981879": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800026",
+      "date": "2026-10-01",
+      "issuer": "Brightleaf Stationery 026 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261026",
+      "description": "Office paper and binding consumables",
+      "net_cents": 203680,
+      "tax_cents": 26478,
+      "total_cents": 230158,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": "TEST-INV-800026",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-48456382": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261026",
+      "date": "2026-10-01",
+      "issuer": "Brightleaf Stationery 026 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261026",
+      "description": "Office supplies order and delivery note for paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 230158,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-53997959": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800027",
+      "date": "2026-10-02",
+      "issuer": "Meadow Cafe 027 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261027",
+      "description": "Client meeting meal",
+      "net_cents": 123478,
+      "tax_cents": 0,
+      "total_cents": 123478,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-46304448": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00027",
+      "date": "2026-10-02",
+      "issuer": "Meadow Cafe 027 (TEST)",
+      "recipient": "Employee 027 (TEST)",
+      "reference": "REF-20261027",
+      "description": "Client meeting meal paid by employee using personal funds",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 123478,
+      "tax_rate_bps": null,
+      "employee": "Employee 027 (TEST)",
+      "invoice_reference": "TEST-INV-800027",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-72531844": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 027 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261027",
+      "description": "Employee expense application for reimbursement of CNY 1,234.78 for a client project meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 123478,
+      "tax_rate_bps": null,
+      "employee": "Employee 027 (TEST)",
+      "invoice_reference": "TEST-INV-800027",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-73310121": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800031",
+      "date": "2026-10-06",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 031 Ltd (TEST)",
+      "reference": "REF-20261031",
+      "description": "Business workflow review service",
+      "net_cents": 64589,
+      "tax_cents": 3875,
+      "total_cents": 68464,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-47036305": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-06",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 031 Ltd (TEST)",
+      "reference": "REF-20261031",
+      "description": "Statement of Work for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 68464,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-78127312": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 031 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261031",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 68464,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-41040459": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800032",
+      "date": "2026-10-07",
+      "issuer": "Brightleaf Stationery 032 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261032",
+      "description": "Office paper and binding consumables",
+      "net_cents": 230188,
+      "tax_cents": 29924,
+      "total_cents": 260112,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-72753690": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261032",
+      "date": "2026-10-07",
+      "issuer": "Brightleaf Stationery 032 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261032",
+      "description": "Office Supplies Order and Delivery Note",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 260112,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-11257622": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800033",
+      "date": "2026-10-08",
+      "issuer": "Oak Kitchen 033 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261033",
+      "description": "Business reference Client meeting meal",
+      "net_cents": 84840,
+      "tax_cents": 0,
+      "total_cents": 84840,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-28113047": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00033",
+      "date": "2026-10-08",
+      "issuer": "Employee 033 (TEST)",
+      "recipient": "Oak Kitchen 033 (TEST)",
+      "reference": "REF-20261033",
+      "description": "Client meeting meal",
+      "net_cents": 84840,
+      "tax_cents": null,
+      "total_cents": 84840,
+      "tax_rate_bps": null,
+      "employee": "Employee 033 (TEST)",
+      "invoice_reference": "TEST-INV-800033",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-62078320": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 033 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261033",
+      "description": "Employee expense application for reimbursement of client project meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 84840,
+      "tax_rate_bps": null,
+      "employee": "Employee 033 (TEST)",
+      "invoice_reference": "TEST-INV-800033",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-44748328": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800034",
+      "date": "2026-10-09",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 034 Ltd (TEST)",
+      "reference": "REF-20261034",
+      "description": "Business workflow review service",
+      "net_cents": 346466,
+      "tax_cents": 20788,
+      "total_cents": 367254,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-94985315": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261034",
+      "date": "2026-10-09",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 034 Ltd (TEST)",
+      "reference": "REF-20261034",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 367254,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-64395605": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Harbor Technology 034 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261034",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 367254,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-67141327": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800035",
+      "date": "2026-10-10",
+      "issuer": "Brightleaf Stationery 035 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261035",
+      "description": "Office paper and binding consumables",
+      "net_cents": 193713,
+      "tax_cents": 25183,
+      "total_cents": 218896,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-82735690": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261035",
+      "date": "2026-10-10",
+      "issuer": "Brightleaf Stationery 035 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261035",
+      "description": "Office Supplies Order and Delivery Note for paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 218896,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-93676558": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800036",
+      "date": "2026-10-11",
+      "issuer": "Meadow Cafe 036 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261036",
+      "description": "Client meeting meal",
+      "net_cents": 272228,
+      "tax_cents": 0,
+      "total_cents": 272228,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-35448552": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00036",
+      "date": "2026-10-11",
+      "issuer": "Meadow Cafe 036 (TEST)",
+      "recipient": "Employee 036 (TEST)",
+      "reference": "REF-20261036",
+      "description": "Merchant payment confirmation for client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 272228,
+      "tax_rate_bps": null,
+      "employee": "Employee 036 (TEST)",
+      "invoice_reference": "TEST-INV-800036",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-27531649": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 036 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261036",
+      "description": "Employee expense application for reimbursement of a client project meeting meal.",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 272228,
+      "tax_rate_bps": null,
+      "employee": "Employee 036 (TEST)",
+      "invoice_reference": "TEST-INV-800036",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-30071723": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800040",
+      "date": "2026-10-15",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 040 Ltd (TEST)",
+      "reference": "REF-20261040",
+      "description": "Business workflow review service",
+      "net_cents": 343803,
+      "tax_cents": 20628,
+      "total_cents": 364431,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-59741693": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261040",
+      "date": "2026-10-15",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 040 Ltd (TEST)",
+      "reference": "REF-20261040",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 364431,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-12524312": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Linden Technology 040 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261040",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 364431,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-98034072": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800041",
+      "date": "2026-10-16",
+      "issuer": "Brightleaf Stationery 041 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261041",
+      "description": "Office paper and binding consumables",
+      "net_cents": 307096,
+      "tax_cents": 39922,
+      "total_cents": 347018,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-76594230": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261041",
+      "date": "2026-10-16",
+      "issuer": "Brightleaf Stationery 041 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261041",
+      "description": "Office supplies order and delivery note for paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 347018,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-13217614": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800042",
+      "date": "2026-10-17",
+      "issuer": "Oak Kitchen 042 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261042",
+      "description": "Client meeting meal",
+      "net_cents": 210082,
+      "tax_cents": 0,
+      "total_cents": 210082,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-23462016": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00042",
+      "date": "2026-10-17",
+      "issuer": "Oak Kitchen 042 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261042",
+      "description": "Client meeting meal payment slip",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 210082,
+      "tax_rate_bps": null,
+      "employee": "Employee 042 (TEST)",
+      "invoice_reference": "TEST-INV-800042",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-27944705": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 042 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261042",
+      "description": "client project meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 210082,
+      "tax_rate_bps": null,
+      "employee": "Employee 042 (TEST)",
+      "invoice_reference": "TEST-INV-800042",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-22873075": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800043",
+      "date": "2026-10-18",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 043 Ltd (TEST)",
+      "reference": "REF-20261043",
+      "description": "Business workflow review service",
+      "net_cents": 242724,
+      "tax_cents": 14563,
+      "total_cents": 257287,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": "TEST-INV-800043",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-52252677": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261043",
+      "date": "2026-10-18",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 043 Ltd (TEST)",
+      "reference": "REF-20261043",
+      "description": "Project Engagement Letter for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 257287,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-57495533": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Cedar Technology 043 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261043",
+      "description": "Service Delivery Acknowledgement - Business workflow review service; agreed report and handover materials received and accepted",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 257287,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-60596372": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800044",
+      "date": "2026-10-19",
+      "issuer": "Brightleaf Stationery 044 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261044",
+      "description": "Office paper and binding consumables",
+      "net_cents": 428804,
+      "tax_cents": 55745,
+      "total_cents": 484549,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-86334139": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261044",
+      "date": "2026-10-19",
+      "issuer": "Brightleaf Stationery 044 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261044",
+      "description": "Office Supplies Order and Delivery Note for paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 484549,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-19090917": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800045",
+      "date": "2026-10-20",
+      "issuer": "Meadow Cafe 045 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261045",
+      "description": "Client meeting meal",
+      "net_cents": 149488,
+      "tax_cents": 0,
+      "total_cents": 149488,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-45526612": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00045",
+      "date": "2026-10-20",
+      "issuer": "Meadow Cafe 045 (TEST)",
+      "recipient": "Employee 045 (TEST)",
+      "reference": "REF-20261045",
+      "description": "Merchant payment confirmation for a client meeting meal paid by employee using personal funds",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 149488,
+      "tax_rate_bps": null,
+      "employee": "Employee 045 (TEST)",
+      "invoice_reference": "TEST-INV-800045",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-98837029": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 045 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261045",
+      "description": "Employee Expense Application for reimbursement of CNY 1,494.88 for a client project meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 149488,
+      "tax_rate_bps": null,
+      "employee": "Employee 045 (TEST)",
+      "invoice_reference": "TEST-INV-800045",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-39491965": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800049",
+      "date": "2026-10-24",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 049 Ltd (TEST)",
+      "reference": "REF-20261049",
+      "description": "Business workflow review service",
+      "net_cents": 38583,
+      "tax_cents": 2315,
+      "total_cents": 40898,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-27362489": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261049",
+      "date": "2026-10-24",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 049 Ltd (TEST)",
+      "reference": "REF-20261049",
+      "description": "Statement of Work for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 40898,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-98569121": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Harbor Technology 049 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261049",
+      "description": "Business workflow review service acceptance email",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 40898,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-77832713": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800050",
+      "date": "2026-10-25",
+      "issuer": "Brightleaf Stationery 050 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261050",
+      "description": "Office paper and binding consumables",
+      "net_cents": 370263,
+      "tax_cents": 48134,
+      "total_cents": 418397,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-69386098": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261050",
+      "date": "2026-10-25",
+      "issuer": "Brightleaf Stationery 050 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261050",
+      "description": null,
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 418397,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-35147413": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800051",
+      "date": "2026-10-01",
+      "issuer": "Oak Kitchen 051 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261051",
+      "description": "Client meeting meal",
+      "net_cents": 427826,
+      "tax_cents": 0,
+      "total_cents": 427826,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-66171368": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00051",
+      "date": "2026-10-01",
+      "issuer": "Oak Kitchen 051 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261051",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 427826,
+      "tax_rate_bps": null,
+      "employee": "Employee 051 (TEST)",
+      "invoice_reference": "TEST-INV-800051",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-39969279": {
+    "record": {
+      "type": "claim",
+      "number": "REF-20261051",
+      "date": "2026-10-27",
+      "issuer": "Employee 051 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261051",
+      "description": "Employee expense application for reimbursement of a client project meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 427826,
+      "tax_rate_bps": null,
+      "employee": "Employee 051 (TEST)",
+      "invoice_reference": "TEST-INV-800051",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-59374170": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800052",
+      "date": "2026-10-02",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 052 Ltd (TEST)",
+      "reference": "REF-20261052",
+      "description": "Business workflow review service",
+      "net_cents": 291460,
+      "tax_cents": 17488,
+      "total_cents": 308948,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-71953123": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261052",
+      "date": "2026-10-02",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 052 Ltd (TEST)",
+      "reference": "REF-20261052",
+      "description": "Business workflow review service under Project Engagement Letter",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 308948,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-63279204": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Maple Technology 052 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261052",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 308948,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-87258781": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800053",
+      "date": "2026-10-03",
+      "issuer": "Brightleaf Stationery 053 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261053",
+      "description": "Office paper and binding consumables",
+      "net_cents": 266963,
+      "tax_cents": 34705,
+      "total_cents": 301668,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-92059961": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261053",
+      "date": "2026-10-03",
+      "issuer": "Brightleaf Stationery 053 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261053",
+      "description": "Office Supplies Order and Delivery Note",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 301668,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-39088159": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800054",
+      "date": "2026-10-04",
+      "issuer": "Meadow Cafe 054 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261054",
+      "description": "Client meeting meal",
+      "net_cents": 124088,
+      "tax_cents": 0,
+      "total_cents": 124088,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-82592263": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00054",
+      "date": "2026-10-04",
+      "issuer": "Meadow Cafe 054 (TEST)",
+      "recipient": "Employee 054 (TEST)",
+      "reference": "REF-20261054",
+      "description": "Merchant Payment Confirmation for a client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 124088,
+      "tax_rate_bps": null,
+      "employee": "Employee 054 (TEST)",
+      "invoice_reference": "TEST-INV-800054",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-42632391": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 054 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261054",
+      "description": "Employee expense application for reimbursement of CNY 1,240.88 for a client project meeting meal.",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 124088,
+      "tax_rate_bps": null,
+      "employee": "Employee 054 (TEST)",
+      "invoice_reference": "TEST-INV-800054",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-54922428": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800058",
+      "date": "2026-10-08",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 058 Ltd (TEST)",
+      "reference": "REF-20261058",
+      "description": "Business workflow review service",
+      "net_cents": 335071,
+      "tax_cents": 20104,
+      "total_cents": 355175,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-10654195": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-08",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 058 Ltd (TEST)",
+      "reference": "REF-20261058",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 355175,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-46048000": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Cedar Technology 058 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261058",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 355175,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-90464795": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800059",
+      "date": "2026-10-09",
+      "issuer": "Brightleaf Stationery 059 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261059",
+      "description": "Office paper and binding consumables",
+      "net_cents": 410324,
+      "tax_cents": 53342,
+      "total_cents": 463666,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-66185362": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261059",
+      "date": "2026-10-09",
+      "issuer": "Brightleaf Stationery 059 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261059",
+      "description": "Office Supplies Order and Delivery Note",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 463666,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-57688968": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800060",
+      "date": "2026-10-10",
+      "issuer": "Oak Kitchen 060 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261060",
+      "description": "Client meeting meal",
+      "net_cents": 145300,
+      "tax_cents": 0,
+      "total_cents": 145300,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-71389722": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00060",
+      "date": "2026-10-10",
+      "issuer": "Oak Kitchen 060 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261060",
+      "description": "PAYMENT SLIP",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 145300,
+      "tax_rate_bps": null,
+      "employee": "Employee 060 (TEST)",
+      "invoice_reference": "TEST-INV-800060",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-90400331": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 060 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261060",
+      "description": "Employee expense application for reimbursement of a client project meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 145300,
+      "tax_rate_bps": null,
+      "employee": "Employee 060 (TEST)",
+      "invoice_reference": "TEST-INV-800060",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-35765558": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800061",
+      "date": "2026-10-11",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 061 Ltd (TEST)",
+      "reference": "REF-20261061",
+      "description": "Business workflow review service",
+      "net_cents": 376681,
+      "tax_cents": 22601,
+      "total_cents": 399282,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": "TEST-INV-800061",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-90490103": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261061",
+      "date": "2026-10-11",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 061 Ltd (TEST)",
+      "reference": "REF-20261061",
+      "description": "Project engagement letter for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 399282,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-61610913": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 061 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261061",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 399282,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-94041865": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800062",
+      "date": "2026-10-12",
+      "issuer": "Brightleaf Stationery 062 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261062",
+      "description": "Office paper and binding consumables",
+      "net_cents": 251623,
+      "tax_cents": 32711,
+      "total_cents": 284334,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-68954481": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261062",
+      "date": "2026-10-12",
+      "issuer": "Brightleaf Stationery 062 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261062",
+      "description": "Office Supplies Order and Delivery Note",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 284334,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-17679816": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800063",
+      "date": "2026-10-13",
+      "issuer": "Meadow Cafe 063 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261063",
+      "description": "Client meeting meal",
+      "net_cents": 316640,
+      "tax_cents": 0,
+      "total_cents": 316640,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-56481301": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00063",
+      "date": "2026-10-13",
+      "issuer": "Meadow Cafe 063 (TEST)",
+      "recipient": "Employee 063 (TEST)",
+      "reference": "REF-20261063",
+      "description": "client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 316640,
+      "tax_rate_bps": null,
+      "employee": "Employee 063 (TEST)",
+      "invoice_reference": "TEST-INV-800063",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-60489006": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 063 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261063",
+      "description": "Employee expense application for reimbursement of a client project meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 316640,
+      "tax_rate_bps": null,
+      "employee": "Employee 063 (TEST)",
+      "invoice_reference": "TEST-INV-800063",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-22750652": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800067",
+      "date": "2026-10-17",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 067 Ltd (TEST)",
+      "reference": "REF-20261067",
+      "description": "Business workflow review service",
+      "net_cents": 391992,
+      "tax_cents": 23520,
+      "total_cents": 415512,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-66885606": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261067",
+      "date": "2026-10-17",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 067 Ltd (TEST)",
+      "reference": "REF-20261067",
+      "description": "Statement of Work for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 415512,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-39616465": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Maple Technology 067 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261067",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 415512,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-31902354": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800068",
+      "date": "2026-10-18",
+      "issuer": "Brightleaf Stationery 068 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261068",
+      "description": "Office paper and binding consumables",
+      "net_cents": 334005,
+      "tax_cents": 43421,
+      "total_cents": 377426,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-45003809": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261068",
+      "date": "2026-10-18",
+      "issuer": "Brightleaf Stationery 068 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261068",
+      "description": "Office supplies order and delivery note; paper and binding consumables received and put into office use on 26 October 2026",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 377426,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-65778140": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800069",
+      "date": "2026-10-19",
+      "issuer": "Oak Kitchen 069 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261069",
+      "description": "Client meeting meal",
+      "net_cents": 177345,
+      "tax_cents": 0,
+      "total_cents": 177345,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-93779304": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00069",
+      "date": "2026-10-19",
+      "issuer": "Oak Kitchen 069 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261069",
+      "description": null,
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 177345,
+      "tax_rate_bps": null,
+      "employee": "Employee 069 (TEST)",
+      "invoice_reference": "TEST-INV-800069",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-39605771": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 069 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261069",
+      "description": "Employee expense application for reimbursement of CNY 1,773.45 for a client project meeting meal.",
+      "net_cents": 177345,
+      "tax_cents": null,
+      "total_cents": 177345,
+      "tax_rate_bps": null,
+      "employee": "Employee 069 (TEST)",
+      "invoice_reference": "TEST-INV-800069",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-80009230": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800070",
+      "date": "2026-10-20",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 070 Ltd (TEST)",
+      "reference": "REF-20261070",
+      "description": "Business workflow review service",
+      "net_cents": 295499,
+      "tax_cents": 17730,
+      "total_cents": 313229,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": "TEST-INV-800070",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-58274522": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261070",
+      "date": "2026-10-20",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 070 Ltd (TEST)",
+      "reference": "REF-20261070",
+      "description": "Project Engagement Letter for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 313229,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-19474354": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Linden Technology 070 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261070",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 313229,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-97898154": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800076",
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 076 Ltd (TEST)",
+      "reference": "REF-20261076",
+      "description": "Business workflow review service",
+      "net_cents": 410001,
+      "tax_cents": 24600,
+      "total_cents": 434601,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-28925050": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261076",
+      "date": "2026-10-01",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 076 Ltd (TEST)",
+      "reference": "REF-20261076",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 434601,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-23707073": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Orion Technology 076 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261076",
+      "description": "Business workflow review service acceptance confirming report and handover materials received and accepted",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 434601,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-19759589": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800077",
+      "date": "2026-10-02",
+      "issuer": "Brightleaf Stationery 077 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261077",
+      "description": "Office paper and binding consumables",
+      "net_cents": 70020,
+      "tax_cents": 9103,
+      "total_cents": 79123,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-68691716": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261077",
+      "date": "2026-10-02",
+      "issuer": "Brightleaf Stationery 077 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261077",
+      "description": "Office Supplies Order and Delivery Note for paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 79123,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-46504736": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800078",
+      "date": "2026-10-03",
+      "issuer": "Oak Kitchen 078 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261078",
+      "description": "Client meeting meal",
+      "net_cents": 361982,
+      "tax_cents": 0,
+      "total_cents": 361982,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-42543782": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00078",
+      "date": "2026-10-03",
+      "issuer": "Oak Kitchen 078 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261078",
+      "description": "Client meeting meal",
+      "net_cents": 361982,
+      "tax_cents": null,
+      "total_cents": 361982,
+      "tax_rate_bps": null,
+      "employee": "Employee 078 (TEST)",
+      "invoice_reference": "TEST-INV-800078",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-54805093": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 078 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261078",
+      "description": "Employee expense application for reimbursement of CNY 3,619.82 for a client project meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 361982,
+      "tax_rate_bps": null,
+      "employee": "Employee 078 (TEST)",
+      "invoice_reference": "TEST-INV-800078",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-19933275": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800079",
+      "date": "2026-10-04",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 079 Ltd (TEST)",
+      "reference": "REF-20261079",
+      "description": "Business workflow review service",
+      "net_cents": 328409,
+      "tax_cents": 19705,
+      "total_cents": 348114,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-94601560": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261079",
+      "date": "2026-10-04",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 079 Ltd (TEST)",
+      "reference": "REF-20261079",
+      "description": "Business workflow review service engagement letter",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 348114,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-80224489": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Harbor Technology 079 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261079",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 348114,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-30251586": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800080",
+      "date": "2026-10-05",
+      "issuer": "Brightleaf Stationery 080 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261080",
+      "description": "Office paper and binding consumables",
+      "net_cents": 105333,
+      "tax_cents": 13693,
+      "total_cents": 119026,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-59378078": {
+    "record": {
+      "type": "order",
+      "number": "REF-20261080",
+      "date": "2026-10-05",
+      "issuer": "Brightleaf Stationery 080 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261080",
+      "description": "Office Supplies Order and Delivery Note",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 119026,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-84522915": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800081",
+      "date": "2026-10-06",
+      "issuer": "Meadow Cafe 081 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261081",
+      "description": "Client meeting meal",
+      "net_cents": 436346,
+      "tax_cents": 0,
+      "total_cents": 436346,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-25235188": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 081 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261081",
+      "description": "Employee expense application for reimbursement of a client project meeting meal.",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 436346,
+      "tax_rate_bps": null,
+      "employee": "Employee 081 (TEST)",
+      "invoice_reference": "TEST-INV-800081",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-42212801": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800085",
+      "date": "2026-10-10",
+      "issuer": "Riverside Dining 085 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261085",
+      "description": "Client meeting meal",
+      "net_cents": 80346,
+      "tax_cents": 0,
+      "total_cents": 80346,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-48906210": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 085 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261085",
+      "description": "Employee expense application for reimbursement of a client project meeting meal",
+      "net_cents": 80346,
+      "tax_cents": null,
+      "total_cents": 80346,
+      "tax_rate_bps": null,
+      "employee": "Employee 085 (TEST)",
+      "invoice_reference": "TEST-INV-800085",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-67455672": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800086",
+      "date": "2026-10-11",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 086 Ltd (TEST)",
+      "reference": "REF-20261086",
+      "description": "Business workflow review service",
+      "net_cents": 62447,
+      "tax_cents": 3747,
+      "total_cents": 66194,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-41448774": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261086",
+      "date": "2026-10-11",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Orion Technology 086 Ltd (TEST)",
+      "reference": "REF-20261086",
+      "description": "Statement of Work for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 66194,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-90586182": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800087",
+      "date": "2026-10-12",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 087 Ltd (TEST)",
+      "reference": "REF-20261087",
+      "description": "Business workflow review service",
+      "net_cents": 313557,
+      "tax_cents": 18813,
+      "total_cents": 332370,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-28625076": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261087",
+      "date": "2026-10-12",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 087 Ltd (TEST)",
+      "reference": "REF-20261087",
+      "description": "Statement of Work for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 332370,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-74784987": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800088",
+      "date": "2026-10-13",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 088 Ltd (TEST)",
+      "reference": "REF-20261088",
+      "description": "Business workflow review service",
+      "net_cents": 63877,
+      "tax_cents": 3833,
+      "total_cents": 67710,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-40321162": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261088",
+      "date": "2026-10-13",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Cedar Technology 088 Ltd (TEST)",
+      "reference": "REF-20261088",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 67710,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-97390291": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800089",
+      "date": "2026-10-14",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 089 Ltd (TEST)",
+      "reference": "REF-20261089",
+      "description": "Business workflow review service",
+      "net_cents": 392128,
+      "tax_cents": 23528,
+      "total_cents": 415656,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-62420378": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261089",
+      "date": "2026-10-14",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 089 Ltd (TEST)",
+      "reference": "REF-20261089",
+      "description": "Project engagement letter for Business workflow review service, including analysis report, supporting working papers and a handover meeting.",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 415656,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-64003169": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800090",
+      "date": "2026-10-15",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 090 Ltd (TEST)",
+      "reference": "REF-20261090",
+      "description": "Business workflow review service",
+      "net_cents": 89739,
+      "tax_cents": 5384,
+      "total_cents": 95123,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": "TEST-INV-800090",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-80404199": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261090",
+      "date": "2026-10-15",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 090 Ltd (TEST)",
+      "reference": "REF-20261090",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 95123,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-82672624": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800094",
+      "date": "2026-10-19",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 094 Ltd (TEST)",
+      "reference": "REF-20261094",
+      "description": "Business workflow review service",
+      "net_cents": 87768,
+      "tax_cents": 5266,
+      "total_cents": 93034,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-43180410": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261094",
+      "date": "2026-10-19",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Harbor Technology 094 Ltd (TEST)",
+      "reference": "REF-20261094",
+      "description": "Statement of Work for Business workflow review service, scheduled 1-25 October 2026",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 113034,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-92819877": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Harbor Technology 094 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261094",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 93034,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-36100261": {
+    "record": {
+      "type": "invoice",
+      "number": "TEST-INV-800095",
+      "date": "2026-10-20",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 095 Ltd (TEST)",
+      "reference": "REF-20261095",
+      "description": "Business workflow review service",
+      "net_cents": 226801,
+      "tax_cents": 13608,
+      "total_cents": 240409,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-67776906": {
+    "record": {
+      "type": "contract",
+      "number": "REF-20261095",
+      "date": "2026-10-20",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Linden Technology 095 Ltd (TEST)",
+      "reference": "REF-20261095",
+      "description": "Statement of Work for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 260409,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-53185281": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Linden Technology 095 Ltd (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261095",
+      "description": "Client acceptance email for business workflow review service; agreed report and handover materials received and accepted",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 240409,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-46861851": {
+    "record": {
+      "type": "invoice",
+      "number": null,
+      "date": "2026-10-21",
+      "issuer": "Oak Kitchen 096 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261096",
+      "description": "Client meeting meal",
+      "net_cents": 293850,
+      "tax_cents": 0,
+      "total_cents": 293850,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-39563903": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00096",
+      "date": "2026-10-21",
+      "issuer": "Oak Kitchen 096 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261096",
+      "description": "Client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 293850,
+      "tax_rate_bps": null,
+      "employee": "Employee 096 (TEST)",
+      "invoice_reference": "TEST-INV-800096",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-82044186": {
+    "record": {
+      "type": "claim",
+      "number": "REF-20261096",
+      "date": "2026-10-27",
+      "issuer": "Employee Employee 096 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261096",
+      "description": "Employee expense application for reimbursement of CNY 2,938.50 for a client project meeting meal at Oak Kitchen 096 (TEST).",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 293850,
+      "tax_rate_bps": null,
+      "employee": "Employee 096 (TEST)",
+      "invoice_reference": "TEST-INV-800096",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-35076785": {
+    "record": {
+      "type": "invoice",
+      "number": null,
+      "date": "2026-10-22",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 097 Ltd (TEST)",
+      "reference": "REF-20261097",
+      "description": "Business workflow review service",
+      "net_cents": 124087,
+      "tax_cents": 7445,
+      "total_cents": 131532,
+      "tax_rate_bps": 600,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-85089355": {
+    "record": {
+      "type": "contract",
+      "number": null,
+      "date": "2026-10-22",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 097 Ltd (TEST)",
+      "reference": "REF-20261097",
+      "description": "Project Engagement Letter for Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 131532,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-41988536": {
+    "record": {
+      "type": "acceptance",
+      "number": null,
+      "date": "2026-10-26",
+      "issuer": "Clearview Business Services Ltd (TEST)",
+      "recipient": "Maple Technology 097 Ltd (TEST)",
+      "reference": "REF-20261097",
+      "description": "Business workflow review service",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 131532,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-44448472": {
+    "record": {
+      "type": "invoice",
+      "number": null,
+      "date": "2026-10-23",
+      "issuer": "Brightleaf Stationery 098 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261098",
+      "description": "Office paper and binding consumables",
+      "net_cents": 382381,
+      "tax_cents": 49710,
+      "total_cents": 432091,
+      "tax_rate_bps": 1300,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-28124787": {
+    "record": {
+      "type": "order",
+      "number": null,
+      "date": "2026-10-23",
+      "issuer": "Brightleaf Stationery 098 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261098",
+      "description": "Office Supplies Order and Delivery Note for paper and binding consumables",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 432091,
+      "tax_rate_bps": null,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": true
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-97906458": {
+    "record": {
+      "type": "invoice",
+      "number": null,
+      "date": "2026-10-24",
+      "issuer": "Meadow Cafe 099 (TEST)",
+      "recipient": "Clearview Business Services Ltd (TEST)",
+      "reference": "REF-20261099",
+      "description": "Client meeting meal",
+      "net_cents": 185347,
+      "tax_cents": 0,
+      "total_cents": 185347,
+      "tax_rate_bps": 0,
+      "employee": null,
+      "invoice_reference": null,
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-53436581": {
+    "record": {
+      "type": "receipt",
+      "number": "PAY-00099",
+      "date": "2026-10-24",
+      "issuer": "Meadow Cafe 099 (TEST)",
+      "recipient": "Employee 099 (TEST)",
+      "reference": "REF-20261099",
+      "description": "client meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 185347,
+      "tax_rate_bps": null,
+      "employee": "Employee 099 (TEST)",
+      "invoice_reference": "TEST-INV-800099",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  },
+  "DOC-75691859": {
+    "record": {
+      "type": "claim",
+      "number": null,
+      "date": "2026-10-27",
+      "issuer": "Employee 099 (TEST)",
+      "recipient": null,
+      "reference": "REF-20261099",
+      "description": "Employee expense application for reimbursement of a client project meeting meal",
+      "net_cents": null,
+      "tax_cents": null,
+      "total_cents": 185347,
+      "tax_rate_bps": null,
+      "employee": "Employee 099 (TEST)",
+      "invoice_reference": "TEST-INV-800099",
+      "completed": null
+    },
+    "origin": "deepseek_extraction"
+  }
+}

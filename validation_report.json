@@ -1,0 +1,110 @@
+{
+  "validation_date": "2026-11-25",
+  "test_count": 28,
+  "tests_passed": true,
+  "scripted_model_integration": "100 transactions processed; 70 clean drafts; 30 held; approved report balances matched independent oracle",
+  "offline_smoke": "100 invoices processed; 24 pending; 76 held; zero API calls",
+  "language_check": "Chinese is confined to README_zh.txt and docs/project_report_zh.pdf; source, data and financial statements use English.",
+  "input_documents": 264,
+  "transactions": 100,
+  "bank_rows": 101,
+  "live_deepseek_test_performed": true,
+  "live_model_accuracy": null,
+  "notes": [
+    "Scripted responses validate program flow, not provider quality.",
+    "No API key or virtual environment is included."
+  ],
+  "revision": "Validated extraction roles and evidence, preserved live experiment provenance, and added readable statement exports.",
+  "saved_live_run_regression": "Six saved live extractions rechecked: six pending drafts, zero false positives, zero new model requests.",
+  "revised_live_model_test_performed": true,
+  "live_full_run_completed": true,
+  "initial_live_evaluation": {
+    "mode": "hybrid",
+    "test_double": false,
+    "invoices": 100,
+    "key_field_accuracy": 0.9433333333333334,
+    "clean_journal_exact_accuracy": 0.9,
+    "error_recall": 1.0,
+    "error_precision": 0.8108108108108109,
+    "exact_issue_set_accuracy": 0.88,
+    "true_positives": 30,
+    "false_positives": 7,
+    "false_negatives": 0,
+    "by_split": {
+      "known_template": {
+        "invoices": 36,
+        "normal": 24,
+        "correct_normal_drafts": 24
+      },
+      "development": {
+        "invoices": 33,
+        "normal": 24,
+        "correct_normal_drafts": 21
+      },
+      "heldout_template": {
+        "invoices": 31,
+        "normal": 22,
+        "correct_normal_drafts": 18
+      }
+    },
+    "investigator_cases": 62,
+    "model_calls": 707,
+    "seconds": 1052.863,
+    "model_cost": null,
+    "note": "Synthetic text PDFs only. Null means no denominator. Offline or scripted scores are not live model scores."
+  },
+  "final_development_revalidation": {
+    "mode": "recheck",
+    "test_double": false,
+    "invoices": 100,
+    "key_field_accuracy": 1.0,
+    "clean_journal_exact_accuracy": 1.0,
+    "error_recall": 1.0,
+    "error_precision": 1.0,
+    "exact_issue_set_accuracy": 0.97,
+    "true_positives": 30,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "by_split": {
+      "known_template": {
+        "invoices": 36,
+        "normal": 24,
+        "correct_normal_drafts": 24
+      },
+      "development": {
+        "invoices": 33,
+        "normal": 24,
+        "correct_normal_drafts": 24
+      },
+      "heldout_template": {
+        "invoices": 31,
+        "normal": 22,
+        "correct_normal_drafts": 22
+      }
+    },
+    "investigator_cases": 0,
+    "model_calls": 0,
+    "seconds": 0,
+    "model_cost": 0,
+    "note": "Frozen saved extractions revalidated with revised Python rules; not a fresh model run. Null means no denominator.",
+    "source_model_calls": 13,
+    "full_approved_balance_matches_oracle": true
+  },
+  "untouched_holdout_claim": false,
+  "total_new_model_calls": 743,
+  "presentation_validation": {
+    "report_pages": 9,
+    "financial_statement_pages": 2,
+    "fonts": [
+      "KaiTi",
+      "Times New Roman"
+    ],
+    "visual_review_passed": true,
+    "approved_entries": 70,
+    "balance_sheet_reconciles": true,
+    "income_statement_reconciles": true,
+    "csv_amount_unit": "CNY yuan",
+    "input_and_oracle_hashes_unchanged": true,
+    "new_model_calls_for_packaging": 0
+  }
+}

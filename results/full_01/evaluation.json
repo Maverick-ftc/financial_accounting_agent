@@ -1,0 +1,35 @@
+{
+  "mode": "hybrid",
+  "test_double": false,
+  "invoices": 100,
+  "key_field_accuracy": 0.9433333333333334,
+  "clean_journal_exact_accuracy": 0.9,
+  "error_recall": 1.0,
+  "error_precision": 0.8108108108108109,
+  "exact_issue_set_accuracy": 0.88,
+  "true_positives": 30,
+  "false_positives": 7,
+  "false_negatives": 0,
+  "by_split": {
+    "known_template": {
+      "invoices": 36,
+      "normal": 24,
+      "correct_normal_drafts": 24
+    },
+    "development": {
+      "invoices": 33,
+      "normal": 24,
+      "correct_normal_drafts": 21
+    },
+    "heldout_template": {
+      "invoices": 31,
+      "normal": 22,
+      "correct_normal_drafts": 18
+    }
+  },
+  "investigator_cases": 62,
+  "model_calls": 707,
+  "seconds": 1052.863,
+  "model_cost": null,
+  "note": "Synthetic text PDFs only. Null means no denominator. Offline or scripted scores are not live model scores."
+}

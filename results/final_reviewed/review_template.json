@@ -1,0 +1,282 @@
+{
+  "DOC-11845607": {
+    "decision": "reject",
+    "snapshot_hash": "51f9a005a572b441ec3213d91b39d772247fcb09e37d512bb6b5dfb6c7017be9"
+  },
+  "DOC-48510384": {
+    "decision": "reject",
+    "snapshot_hash": "380fac094f708f70ae393b0fb415e029712a8fd21794829151a232623438901b"
+  },
+  "DOC-38068729": {
+    "decision": "reject",
+    "snapshot_hash": "c631d053f8a10a5d9d585dba7d3781de1c80954f576ebe030a2ba09a58695f0e"
+  },
+  "DOC-75396079": {
+    "decision": "reject",
+    "snapshot_hash": "081fe414f86cf0ae5c46ba2b7da8295dd2ba8ae7239f18cd742c53bbf16dfa93"
+  },
+  "DOC-10978682": {
+    "decision": "reject",
+    "snapshot_hash": "d160722ab50db3ec2e89cfe12ab8945709d09adc6b810f406d1637a6868004cb"
+  },
+  "DOC-56120427": {
+    "decision": "reject",
+    "snapshot_hash": "a9752db0b3bceeccbb86d142d48aec23e0106311bf6a263cdd6e1e2ee3f39047"
+  },
+  "DOC-64833659": {
+    "decision": "reject",
+    "snapshot_hash": "4a646b93e1ca90b15114c08daf39f421de6bac3f708afe2ae76429706d30526b"
+  },
+  "DOC-59367038": {
+    "decision": "reject",
+    "snapshot_hash": "b08ea437089efcec35baa11b39bbc91166564c9fef97db4e02b2da388eab08d3"
+  },
+  "DOC-19394977": {
+    "decision": "reject",
+    "snapshot_hash": "d268f48a91ad3d157a0611209c003007f79f1399778f154ca2cae1e79aabc93d"
+  },
+  "DOC-20878475": {
+    "decision": "reject",
+    "snapshot_hash": "746dab5846c71d31a4591864c6c8f6ab00ccdee0d819f6b21cea1e297bf58ae0"
+  },
+  "DOC-74530027": {
+    "decision": "reject",
+    "snapshot_hash": "3237321d48df14e11299fae7df2616642759d8f840bc709ffe2d0f26839616c6"
+  },
+  "DOC-66553438": {
+    "decision": "reject",
+    "snapshot_hash": "dcc324b96f4225d4103fa8041769043348c85178d52292a42f518bed85ad5ff0"
+  },
+  "DOC-97731709": {
+    "decision": "reject",
+    "snapshot_hash": "2b2b07e5554597200453ddd8d5ba0a6678212736b1cdc8ac4a1f0ba4c38502e8"
+  },
+  "DOC-97990413": {
+    "decision": "reject",
+    "snapshot_hash": "0c2c6232dab3fcd5bdaef50d514b527e67c0a9497f831abc61839104092ab881"
+  },
+  "DOC-40770893": {
+    "decision": "reject",
+    "snapshot_hash": "aa827d1ff9baa5e7b1a3576a2d338424a6dd3d80231b03447571bdff25932b84"
+  },
+  "DOC-50930305": {
+    "decision": "reject",
+    "snapshot_hash": "46fcdd957975068d6b393b1fda62b29c1d170aae7efa4da7925b2ec8aabbca9e"
+  },
+  "DOC-32091934": {
+    "decision": "reject",
+    "snapshot_hash": "eb1a732e06cbd53e02326985bd65deb12a0715e79b23d0cf7e175637296139e1"
+  },
+  "DOC-70212114": {
+    "decision": "reject",
+    "snapshot_hash": "9d4691d39fa9199af5bc0d33721e4908232ab45a9483e5f5a5b8650e20abe00d"
+  },
+  "DOC-30300352": {
+    "decision": "reject",
+    "snapshot_hash": "ba3d3e331a977c1be49c82d284e1fa8a25f6ddc9e48352dd3a38d3f6c282d963"
+  },
+  "DOC-26864148": {
+    "decision": "reject",
+    "snapshot_hash": "c6a80d50055be9a7511cd653b0a90bb7a91ea25bfed29491e057e8222a7b899b"
+  },
+  "DOC-88971721": {
+    "decision": "reject",
+    "snapshot_hash": "c49cb6d7ead9d58681db35b381984fff2c645c53714ffce8753893bdbb17bf02"
+  },
+  "DOC-45948907": {
+    "decision": "reject",
+    "snapshot_hash": "6b0c86cb3aaf1d787574ffdad9e5782d1f565d54aa2f4ac05c85cec151595a80"
+  },
+  "DOC-63369464": {
+    "decision": "reject",
+    "snapshot_hash": "1747ee0c9d169b247cb4a3ec371140d469564dbc66bb169f0e42a1ef61dd13c1"
+  },
+  "DOC-79709789": {
+    "decision": "reject",
+    "snapshot_hash": "6e6c5c24359cb516727e9383e41a3128ea9fbe77c4bbc98309e4bc6bdacfd34e"
+  },
+  "DOC-31008633": {
+    "decision": "reject",
+    "snapshot_hash": "9e777868b7921c14f97111929f3e28584a1f4112f6cccaf1acaf73907ec8942e"
+  },
+  "DOC-25981879": {
+    "decision": "reject",
+    "snapshot_hash": "0d974e302bba52c13b43628b513f928084102b490d60c0f995aae79d245d3e9d"
+  },
+  "DOC-53997959": {
+    "decision": "reject",
+    "snapshot_hash": "8bd871ee499680ebed5ab1a5ee5231aad33941590f62f4b2e8f957d02cc0ce1d"
+  },
+  "DOC-14682493": {
+    "decision": "reject",
+    "snapshot_hash": "4576a72266511e46e9a22543e3c7767bac41ca9e0c860dccf92578e458232625"
+  },
+  "DOC-25961405": {
+    "decision": "reject",
+    "snapshot_hash": "c7ceab76d65ea3efa20bcf1846669b8d6bdfa2e8a5cd9125f8678714d41210ea"
+  },
+  "DOC-22062818": {
+    "decision": "reject",
+    "snapshot_hash": "d93abc8e57e6472b8c53a2e29e25dffa1298b20786bb1796384f4d6a854c3e5a"
+  },
+  "DOC-73310121": {
+    "decision": "reject",
+    "snapshot_hash": "c8cb2e59390385fdafeb7e86f328c9c0a765c82e326682825965c8af125c4f8b"
+  },
+  "DOC-41040459": {
+    "decision": "reject",
+    "snapshot_hash": "402b66cc6f235ee0554bfcf2db8ea996ecba68a185a364723414190436a5a0dd"
+  },
+  "DOC-11257622": {
+    "decision": "reject",
+    "snapshot_hash": "f2493053bab77823a8d00318ed09ff83968689337d1438ea0f9121853e47ec57"
+  },
+  "DOC-44748328": {
+    "decision": "reject",
+    "snapshot_hash": "8786c5a0ad2f6eb0879033a779da39b3324547b853fe14a4b588b1ea40516e65"
+  },
+  "DOC-67141327": {
+    "decision": "reject",
+    "snapshot_hash": "ccb3c69d7ba93cbbc583124d3170181925301ff8366e73ef05e113e37e5f859c"
+  },
+  "DOC-93676558": {
+    "decision": "reject",
+    "snapshot_hash": "528a68a70a75526236cace8e4e6faf961846541846b49704cf46bc9c216763ef"
+  },
+  "DOC-75766844": {
+    "decision": "reject",
+    "snapshot_hash": "976eda2398f7de0d2da953326982f72533f829fe6d4738e40c4d5189154e0a56"
+  },
+  "DOC-40901853": {
+    "decision": "reject",
+    "snapshot_hash": "a441225215c01211fd4cdd1e29d7404242a322a81c7b91004808a87ca3440d6f"
+  },
+  "DOC-38641201": {
+    "decision": "reject",
+    "snapshot_hash": "822d4ba7991cf5bdafc4011225a19c22cfed04feb2bcc9074897ce609bbbfa77"
+  },
+  "DOC-30071723": {
+    "decision": "reject",
+    "snapshot_hash": "46ff09cd654ae49ec6bbaf52e2434cdd9e2314891929e64febe7bc6ac76ecb7c"
+  },
+  "DOC-98034072": {
+    "decision": "reject",
+    "snapshot_hash": "9cd5a04225eec68bbf85aebddaf4d9cb0ad279614fb9168be6c19b3d8c8b43c4"
+  },
+  "DOC-13217614": {
+    "decision": "reject",
+    "snapshot_hash": "cc8e525a4b038014815708656e48d9b6d98991d430866dbf5e5eae584904a5df"
+  },
+  "DOC-22873075": {
+    "decision": "reject",
+    "snapshot_hash": "ad9ad007ca5b8751be2cda2642f41b7702ff4e3621f62cc08cd77edf730dba8e"
+  },
+  "DOC-60596372": {
+    "decision": "reject",
+    "snapshot_hash": "8e81b36023a16653e6235694d41662c1e618424055ce8590eaadb4e5736d95af"
+  },
+  "DOC-19090917": {
+    "decision": "reject",
+    "snapshot_hash": "6f5a20f33c1c09c727a3a164dd6b6346c367dded6f91dcf941fe75cc3a4f0950"
+  },
+  "DOC-98940351": {
+    "decision": "reject",
+    "snapshot_hash": "0c89c6ad542bd81866803735cd4c18cda9eebb54403640a9d1e35df9bb248bf3"
+  },
+  "DOC-37206227": {
+    "decision": "reject",
+    "snapshot_hash": "77ec6347d94318dc58bf53fbf8c96c1b84c8a11bf0a33ec2e8efc5c635cdc219"
+  },
+  "DOC-74826507": {
+    "decision": "reject",
+    "snapshot_hash": "bdf2e27cbbb1fd0dbaa3e26a579eefb89712367bcaa48318b9861372ba37ea79"
+  },
+  "DOC-39491965": {
+    "decision": "reject",
+    "snapshot_hash": "b89b8544e6e3c7ac7c4aaea31893b01e9ff2a5a1efb01a00b724b820de981353"
+  },
+  "DOC-77832713": {
+    "decision": "reject",
+    "snapshot_hash": "3120a7d0a22c9a37d5c9554f367e2a4b7a3f9ce22af91b820b8c79800f565e1b"
+  },
+  "DOC-35147413": {
+    "decision": "reject",
+    "snapshot_hash": "18a8c365fc13d570e7cd5b8964d3b0311ae0a479a3b8520f752d12aa70a390b9"
+  },
+  "DOC-59374170": {
+    "decision": "reject",
+    "snapshot_hash": "1e9c6143dffc42548d86a58be26c1699ec5b4a0e10dd902b1fe45a1c48e23d3c"
+  },
+  "DOC-87258781": {
+    "decision": "reject",
+    "snapshot_hash": "10ad1ae1987b5f65503ed574c1b424db8dfadb52df27a2b15cef0a4762038a32"
+  },
+  "DOC-39088159": {
+    "decision": "reject",
+    "snapshot_hash": "a03f0e67f331db3df86829b037be11cfc141f402976a7eb81117513b2d8b9ce6"
+  },
+  "DOC-74082818": {
+    "decision": "reject",
+    "snapshot_hash": "e0c618a23ebf8c599485c3d63bbb05ed3155f3e08666fa5acc20545e3f6b2508"
+  },
+  "DOC-21508813": {
+    "decision": "reject",
+    "snapshot_hash": "534a913eb3c71eb1bf1ef2cf9f5d850a115990072b8b3607f6ae51062ad37e17"
+  },
+  "DOC-67320752": {
+    "decision": "reject",
+    "snapshot_hash": "eea4c8c600eabda4a2b6441effad905e9750f5ef3285265ff10a99a4d322835b"
+  },
+  "DOC-54922428": {
+    "decision": "reject",
+    "snapshot_hash": "3285385000af4bc699344cb928c5520bacf7145b33ef332a3a13a0e898b61da2"
+  },
+  "DOC-90464795": {
+    "decision": "reject",
+    "snapshot_hash": "b30110505dde3de6bd40acf97e7aa1233c07d524447918cc4cca83dd4c761574"
+  },
+  "DOC-57688968": {
+    "decision": "reject",
+    "snapshot_hash": "a22868abafe5dcbc2541c37b9071f1a46c9535b5bd4e0d191d68cc0db0a426c6"
+  },
+  "DOC-35765558": {
+    "decision": "reject",
+    "snapshot_hash": "7364578eb42eb1e49ed5eca0dc04870888d5142e6d59c24d8fd5f5d296431902"
+  },
+  "DOC-94041865": {
+    "decision": "reject",
+    "snapshot_hash": "979c46d551ba1f30f454b1ce74381df5291c887fd9f32e5598226cd44dacb41e"
+  },
+  "DOC-17679816": {
+    "decision": "reject",
+    "snapshot_hash": "68651d18657a94147690b108ccbcd0a462054a08adfd6cf8e1f841e758c0b998"
+  },
+  "DOC-49264755": {
+    "decision": "reject",
+    "snapshot_hash": "bed1509baff1fa599b63fa86f19b9972d3f0fc4ea537f1963264d87b6364f635"
+  },
+  "DOC-29415805": {
+    "decision": "reject",
+    "snapshot_hash": "8951abc49b18839faaf4e33e53f3c2ae44ddf845399ad54a84c264046e562e72"
+  },
+  "DOC-13651904": {
+    "decision": "reject",
+    "snapshot_hash": "04ca8c0b021f35e8d5df22c5e8bc3f55926b1c11d745139a77595d83d14393cb"
+  },
+  "DOC-22750652": {
+    "decision": "reject",
+    "snapshot_hash": "5511d94be9427b3a635a8c2a2b7a6a4313205b8211209950e28c5d339cf7b339"
+  },
+  "DOC-31902354": {
+    "decision": "reject",
+    "snapshot_hash": "a364b4998a59e319a6810e411dc1a248cd9ddc9dd9604fdc85dfdb55e8445669"
+  },
+  "DOC-65778140": {
+    "decision": "reject",
+    "snapshot_hash": "cfe1aaa538528b4ab4eb948cab32c330f1294d381b9e9f65e727f79bd957569a"
+  },
+  "DOC-80009230": {
+    "decision": "reject",
+    "snapshot_hash": "c4b0a058f4af57e4fb175d39830d9f8d87dd0c5433fc1c5a3f42cc2b12b9016e"
+  }
+}
